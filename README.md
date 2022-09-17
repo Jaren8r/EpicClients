@@ -102,3 +102,4 @@ Every application (e.g. game, website) that utilises Epic's official services is
 [Quixel](permissions/b9101103b8814baa9bb4e79e5eb107d0.md) | b9101103b8814baa9bb4e79e5eb107d0 | Unknown | Unknown | Unknown |
 [fortniteHKGameClient](permissions/bb69d1e9bedb4c04a9e64a63a40aa2a4.md) | bb69d1e9bedb4c04a9e64a63a40aa2a4 | Unknown | Unknown | Unknown |
 [Rocket League](permissions/xyza7891p5D7s9R6Gm6moTHWGloerp7B.md) | xyza7891p5D7s9R6Gm6moTHWGloerp7B | Knh18du4NVlFs+3uQ+ZPpDCVto0WYf4yXP8+OcwVt1o | e6bcca5b37d0457ca881aec508205542 | authorization_code, client_credentials, device_auth, device_code, exchange_code, external_auth, refresh_token |
+[Fall Guys](permissions/xyza7891mADED0tPNJFOiF8OmI0DwY0J.md) | xyza7891mADED0tPNJFOiF8OmI0DwY0J | 8w2sDwL5/GuUjeVbHZIxe1FAFwi+tuQI2msSCVIO+EA | d42d7101bb7a41c09a810ee418b7d3d0 | authorization_code, client_credentials, device_auth, device_code, exchange_code, external_auth, refresh_token |
