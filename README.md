@@ -91,6 +91,7 @@ Every application (e.g. game, website) that utilises Epic's official services is
 [fortniteTrackerFortniteClient](permissions/d7c956d5f1de46088dc2f5b8fccae940.md) | `d7c956d5f1de46088dc2f5b8fccae940` | `Unknown`|
 [fortnitePS4USGameClient](permissions/d8566f2e7f5c48f89683173eb529fee1.md) | `d8566f2e7f5c48f89683173eb529fee1` | `Unknown`|
 [Network N](permissions/d978d5ac4e1545d59e4e93a05ce77e26.md) | `d978d5ac4e1545d59e4e93a05ce77e26` | `Unknown`|
+[fortniteXSXGameClient](permissions/db84fa58b60e468ba64e3b17209b56e9.md) | `db84fa58b60e468ba64e3b17209b56e9` | `Unknown`|
 [utDedicatedServerEpicHosted](permissions/e0aca23dfb7348d6bad648bbe175a6e6.md) | `e0aca23dfb7348d6bad648bbe175a6e6` | `Unknown`|
 [utvbulletin](permissions/e7d1a3ee19ac4173b80a53006dc53be3.md) | `e7d1a3ee19ac4173b80a53006dc53be3` | `Unknown`|
 [fortnitePCGameClient](permissions/ec684b8c687f479fadea3cb2ad83f5c6.md) | `ec684b8c687f479fadea3cb2ad83f5c6` | `e1f31c211f28413186262d37a13fc84d`|
