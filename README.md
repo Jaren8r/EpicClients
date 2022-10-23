@@ -105,6 +105,7 @@ Every application (e.g. game, website) that utilises Epic's official services is
 [launcherServiceClient](permissions/f3e80378aed4462498774a7951cd263f.md) | `f3e80378aed4462498774a7951cd263f` | `Unknown` |
 [ue4vbulletin](permissions/f65082b48b504eb88f73961b0131cda7.md) | `f65082b48b504eb88f73961b0131cda7` | `Unknown` |
 [Google (YouTube)](permissions/fa39ae1203b5438280f515f38a50f08e.md) | `fa39ae1203b5438280f515f38a50f08e` | `Unknown` |
+[Hi-Rez](permissions/fd81de75ae49408183023bfc50a9f1cf.md) | `fd81de75ae49408183023bfc50a9f1cf` | `Unknown` |
 [Fortnite](permissions/xyza7891343Fr4ZSPkQZ3kaL3I2sX8B5.md) | `xyza7891343Fr4ZSPkQZ3kaL3I2sX8B5` | `F8BVRyHIqmct8cN9KSPbXsJszpiIZEYEFDiySxc1wuA` |
 [MultiVersus](permissions/xyza78914ucg8qGrE2tBEtjF6iWWc9OQ.md) | `xyza78914ucg8qGrE2tBEtjF6iWWc9OQ` | `Yu4GTawt3NJAYbf54tH679UawG+G4uuz7cGphezeBGw` |
 [Fall Guys](permissions/xyza7891mADED0tPNJFOiF8OmI0DwY0J.md) | `xyza7891mADED0tPNJFOiF8OmI0DwY0J` | `8w2sDwL5/GuUjeVbHZIxe1FAFwi+tuQI2msSCVIO+EA` |
