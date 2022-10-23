@@ -38,6 +38,7 @@ Every application (e.g. game, website) that utilises Epic's official services is
 [FN Discord Quest - Stage](permissions/4fa1f937bc684525a9b86bb2255fcee3.md) | `4fa1f937bc684525a9b86bb2255fcee3` | `Unknown` |
 [fortniteSwitchGameClient](permissions/5229dcd3ac3845208b496649092f251b.md) | `5229dcd3ac3845208b496649092f251b` | `e3bd2d3e-bf8c-4857-9e7d-f3d947d220c7` |
 [RealIdWeb](permissions/52aff4e66d4d45548180ccf65ce12d3e.md) | `52aff4e66d4d45548180ccf65ce12d3e` | `Unknown` |
+[fallguysSite](permissions/586dff7efd074d01b0503968cd0d378e.md) | `586dff7efd074d01b0503968cd0d378e` | `Unknown` |
 [epicgamesNodeWebsiteClient](permissions/5a6fcd3b82e04f8fa0065253835c5221.md) | `5a6fcd3b82e04f8fa0065253835c5221` | `Unknown` |
 [KairosPC](permissions/5b685653b9904c1d92495ee8859dcb00.md) | `5b685653b9904c1d92495ee8859dcb00` | `7Q2mcmneyuvPmoRYfwM7gfErA6iUjhXr` |
 [Kairos iOS](permissions/61d2f70175e84a6bba80a5089e597e1c.md) | `61d2f70175e84a6bba80a5089e597e1c` | `FbiZv3wbiKpvVKrAeMxiR6WhxZWVbrvA` |
