@@ -81,7 +81,7 @@ Every application (e.g. game, website) that utilises Epic's official services is
 [fulfillmentClient](permissions/b3a0d1d6558b788e27a8c044083375ef.md) | `b3a0d1d6558b788e27a8c044083375ef` | `Unknown` |
 [Quixel](permissions/b9101103b8814baa9bb4e79e5eb107d0.md) | `b9101103b8814baa9bb4e79e5eb107d0` | `Unknown` |
 [publishingWebsiteClient](permissions/ba517836005c460eb18d368fa35eb002.md) | `ba517836005c460eb18d368fa35eb002` | `Unknown` |
-[fortniteHKGameClient](permissions/bb69d1e9bedb4c04a9e64a63a40aa2a4.md) | `bb69d1e9bedb4c04a9e64a63a40aa2a4` | `Unknown` |
+[fortniteHKGameClient](permissions/bb69d1e9bedb4c04a9e64a63a40aa2a4.md) | `bb69d1e9bedb4c04a9e64a63a40aa2a4` | `f7debd4825cf4929a19e3e4010641ab5` |
 [udnClient](permissions/bc742d26f8314469aa997373f39c876e.md) | `bc742d26f8314469aa997373f39c876e` | `Unknown` |
 [mergeWeb](permissions/bc904f1795cd4f29a5d1f41e784e0793.md) | `bc904f1795cd4f29a5d1f41e784e0793` | `Unknown` |
 [Bevy](permissions/c1b81c9ba24e4b6ab3e99ad00320ffd2.md) | `c1b81c9ba24e4b6ab3e99ad00320ffd2` | `Unknown` |
