@@ -35,6 +35,7 @@ Every application (e.g. game, website) that utilises Epic's official services is
 [ocean_web](permissions/4b6c700c72c44e178b12070f2719af1a.md) | `4b6c700c72c44e178b12070f2719af1a` | `Unknown` |
 [affiliate_web](permissions/4d9a4e9e568a40faa77b9757b4fac210.md) | `4d9a4e9e568a40faa77b9757b4fac210` | `Unknown` |
 [content-service-live-web](permissions/4e1e74dcfe6e4d6eaea66fec15f9b9d4.md) | `4e1e74dcfe6e4d6eaea66fec15f9b9d4` | `Unknown` |
+[twinmotion-website](permissions/4f5e975e1b4c4b5caca20f70daa90c17.md) | `4f5e975e1b4c4b5caca20f70daa90c17` | `Unknown` |
 [FN Discord Quest - Stage](permissions/4fa1f937bc684525a9b86bb2255fcee3.md) | `4fa1f937bc684525a9b86bb2255fcee3` | `Unknown` |
 [fortniteSwitchGameClient](permissions/5229dcd3ac3845208b496649092f251b.md) | `5229dcd3ac3845208b496649092f251b` | `e3bd2d3e-bf8c-4857-9e7d-f3d947d220c7` |
 [RealIdWeb](permissions/52aff4e66d4d45548180ccf65ce12d3e.md) | `52aff4e66d4d45548180ccf65ce12d3e` | `Unknown` |
