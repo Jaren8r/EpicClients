@@ -87,6 +87,7 @@ Every application (e.g. game, website) that utilises Epic's official services is
 [mergeWeb](permissions/bc904f1795cd4f29a5d1f41e784e0793.md) | `bc904f1795cd4f29a5d1f41e784e0793` | `Unknown` |
 [Bevy](permissions/c1b81c9ba24e4b6ab3e99ad00320ffd2.md) | `c1b81c9ba24e4b6ab3e99ad00320ffd2` | `Unknown` |
 [ue4answerhub](permissions/c4c02c7c99e94ed9870a9dbeafab2c3f.md) | `c4c02c7c99e94ed9870a9dbeafab2c3f` | `Unknown` |
+[Boundless](permissions/c62bb2285788480490e5da16c92717a2.md) | `c62bb2285788480490e5da16c92717a2` | `Unknown` |
 [fortniteComClient](permissions/cd2b7c19c9734a2ab98dc251868d7724.md) | `cd2b7c19c9734a2ab98dc251868d7724` | `Unknown` |
 [social-token-exchange-prod](permissions/cf27c69fe66441e8a8a4e8faf396ee4c.md) | `cf27c69fe66441e8a8a4e8faf396ee4c` | `Unknown` |
 [fortniteXboxGameClient](permissions/cfaa14c4bf8744e3a5ef9a5d6c34558d.md) | `cfaa14c4bf8744e3a5ef9a5d6c34558d` | `Unknown` |
