@@ -53,6 +53,7 @@ Every application (e.g. game, website) that utilises Epic's official services is
 [Fortnite Activation Web Application](permissions/77bf1d2f9e1b4801b4c9305cca1c7dd7.md) | `77bf1d2f9e1b4801b4c9305cca1c7dd7` | `Unknown` |
 [fortnitePS4EUGameClient](permissions/79a931b375334570ac369234f5da05ec.md) | `79a931b375334570ac369234f5da05ec` | `Unknown` |
 [Epic Games Client Service](permissions/7a40f8cdafd346219a4a0a15522b8ed7.md) | `7a40f8cdafd346219a4a0a15522b8ed7` | `a94578c3-3a79-4441-ad22-a4ef6c9380a1` |
+[Diesel - Monomi Park - Slime Rancher](permissions/7c0e608d74ec4f40a1d58beb26639367.md) | `7c0e608d74ec4f40a1d58beb26639367` | `P9A63tad7Yk5FPRRmqbopgACDq99em` |
 [creativeModeWebsite](permissions/7de9f4b799d3470984093b218287dc72.md) | `7de9f4b799d3470984093b218287dc72` | `Unknown` |
 [Diesel - Hi-Rez - Rogue Company](permissions/7f7b1f9ac72440408d65115cd49d0184.md) | `7f7b1f9ac72440408d65115cd49d0184` | `WgUdnDX3ebNU3Y8Rk2K9bmnBkJqdKMbnQ8jPbfjLJntP` |
 [self-service-portal](permissions/8177ec72e7364c59a61a36213900ba67.md) | `8177ec72e7364c59a61a36213900ba67` | `Unknown` |
