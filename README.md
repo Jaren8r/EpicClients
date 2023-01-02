@@ -87,6 +87,7 @@ Every application (e.g. game, website) that utilises Epic's official services is
 [fortniteHKGameClient](permissions/bb69d1e9bedb4c04a9e64a63a40aa2a4.md) | `bb69d1e9bedb4c04a9e64a63a40aa2a4` | `f7debd4825cf4929a19e3e4010641ab5` |
 [udnClient](permissions/bc742d26f8314469aa997373f39c876e.md) | `bc742d26f8314469aa997373f39c876e` | `Unknown` |
 [mergeWeb](permissions/bc904f1795cd4f29a5d1f41e784e0793.md) | `bc904f1795cd4f29a5d1f41e784e0793` | `Unknown` |
+[Diesel - Rockstar - Serpentine](permissions/c19208b6eec5423d951186aee0ad7b9c.md) | `c19208b6eec5423d951186aee0ad7b9c` | `YaEL5raCmwNB4TuZf5AU` |
 [Bevy](permissions/c1b81c9ba24e4b6ab3e99ad00320ffd2.md) | `c1b81c9ba24e4b6ab3e99ad00320ffd2` | `Unknown` |
 [ue4answerhub](permissions/c4c02c7c99e94ed9870a9dbeafab2c3f.md) | `c4c02c7c99e94ed9870a9dbeafab2c3f` | `Unknown` |
 [Boundless](permissions/c62bb2285788480490e5da16c92717a2.md) | `c62bb2285788480490e5da16c92717a2` | `Unknown` |
