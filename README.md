@@ -44,6 +44,7 @@ Every application (e.g. game, website) that utilises Epic's official services is
 [KairosPC](permissions/5b685653b9904c1d92495ee8859dcb00.md) | `5b685653b9904c1d92495ee8859dcb00` | `7Q2mcmneyuvPmoRYfwM7gfErA6iUjhXr` |
 [Kairos iOS](permissions/61d2f70175e84a6bba80a5089e597e1c.md) | `61d2f70175e84a6bba80a5089e597e1c` | `FbiZv3wbiKpvVKrAeMxiR6WhxZWVbrvA` |
 [orionLivePS4USGameClient](permissions/63f198487c8646f192a59be02ce0d14c.md) | `63f198487c8646f192a59be02ce0d14c` | `73f1d7b9e7124c3b8538e8d67d7c4e68` |
+[Rockstar Games - Game Client](permissions/6b3b277c50a74855ab9beff2d62428aa.md) | `6b3b277c50a74855ab9beff2d62428aa` | `4h8MBChGbrV2woGgr2fdaYn2iWtHdf9F` |
 [ueLauncherSite](permissions/6b4462add71f4d9eb14dcf75c7153a89.md) | `6b4462add71f4d9eb14dcf75c7153a89` | `Unknown` |
 [EM 2](permissions/6d2a42a9fa1c4242a2783f690ee0bb2c.md) | `6d2a42a9fa1c4242a2783f690ee0bb2c` | `Unknown` |
 [utDedicatedServer](permissions/6ff43e743edc4d1dbac3594877b4bed9.md) | `6ff43e743edc4d1dbac3594877b4bed9` | `54619d6f84d443e195200b54ab649a53` |
