@@ -78,6 +78,7 @@ Every application (e.g. game, website) that utilises Epic's official services is
 [orionLivePS4GameClient](permissions/9fe4a9e4584c43a0bca6bd22a52f2f40.md) | `9fe4a9e4584c43a0bca6bd22a52f2f40` | `3bc094a9bab74dcdb8bb74c836758d48` |
 [StreamElements](permissions/a29e10f56c484fcdbb3be1bd1c77769a.md) | `a29e10f56c484fcdbb3be1bd1c77769a` | `Unknown` |
 [egstoreContentService](permissions/a472abd3e5ad4d90a0549213906dcf3f.md) | `a472abd3e5ad4d90a0549213906dcf3f` | `Unknown` |
+[fortnite.com](permissions/a485a2fde2e343dfb7559d5efeaf35d9.md) | `a485a2fde2e343dfb7559d5efeaf35d9` | `Unknown` |
 [orionLivePS4EUGameClient](permissions/a510a43d1fcc4636bc9c99a46a7cd50c.md) | `a510a43d1fcc4636bc9c99a46a7cd50c` | `2bd23b2e603d46c4939fcbf9d2b2f46a` |
 [utDedicatedServerEpicTrusted](permissions/ad8def9ae6b84360b6c9b358aba06262.md) | `ad8def9ae6b84360b6c9b358aba06262` | `Unknown` |
 [Diesel - Dauntless](permissions/b070f20729f84693b5d621c904fc5bc2.md) | `b070f20729f84693b5d621c904fc5bc2` | `HG@XE&TGCxEJsgT#&_p2]=aRo#~>=>+c6PhR)zXP` |
