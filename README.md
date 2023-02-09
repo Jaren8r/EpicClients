@@ -11,6 +11,7 @@ Every application (e.g. game, website) that utilises Epic's official services is
 [Sid Meier's Civilization VI](permissions/0a4056c60cfd4e1f9f28795e529cd0c3.md) | `0a4056c60cfd4e1f9f28795e529cd0c3` | `MZ8+TE8PHc9+n7WbSYMJ8QlQU4oHPUlVXRO5D6toxAw` |
 [fortniteEsportsComClient](permissions/0fa561666d6e41cb95b2a357a8b4a6f3.md) | `0fa561666d6e41cb95b2a357a8b4a6f3` | `Unknown` |
 [Content Creators](permissions/11d0352c60d045698fa3655016337f8f.md) | `11d0352c60d045698fa3655016337f8f` | `Unknown` |
+[koala](permissions/11f52c3906fb45e39e4f64a585bb4d2d.md) | `11f52c3906fb45e39e4f64a585bb4d2d` | `7517be87-fc6f-45ed-9b34-f21d9097683e` |
 [utClient](permissions/1252412dc7704a9690f6ea4611bc81ee.md) | `1252412dc7704a9690f6ea4611bc81ee` | `2ca0c925b4674852bff92b26f8322434` |
 [devEpicgamesWebsiteClient](permissions/1412c33087cc452283d371665a8e5fbc.md) | `1412c33087cc452283d371665a8e5fbc` | `Unknown` |
 [orionLivePCGameClient](permissions/1483ba7d6c0247828c26cc8a74a9a183.md) | `1483ba7d6c0247828c26cc8a74a9a183` | `78facc4029ed4d66801a5402adad79c8` |
