@@ -78,6 +78,7 @@ Every application (e.g. game, website) that utilises Epic's official services is
 [Diesel - Dodo](permissions/9a06a69c0c8a458caab330d48badb877.md) | `9a06a69c0c8a458caab330d48badb877` | `be4d1tppwi9eskufqmyz4x4hf0ndubqn0ru1zs9tkmhf` |
 [orionLivePS4GameClient](permissions/9fe4a9e4584c43a0bca6bd22a52f2f40.md) | `9fe4a9e4584c43a0bca6bd22a52f2f40` | `3bc094a9bab74dcdb8bb74c836758d48` |
 [StreamElements](permissions/a29e10f56c484fcdbb3be1bd1c77769a.md) | `a29e10f56c484fcdbb3be1bd1c77769a` | `Unknown` |
+[fn-creator-portal](permissions/a4030782e8904c088769da1b301e84f4.md) | `a4030782e8904c088769da1b301e84f4` | `Unknown` |
 [egstoreContentService](permissions/a472abd3e5ad4d90a0549213906dcf3f.md) | `a472abd3e5ad4d90a0549213906dcf3f` | `Unknown` |
 [fortnite.com](permissions/a485a2fde2e343dfb7559d5efeaf35d9.md) | `a485a2fde2e343dfb7559d5efeaf35d9` | `Unknown` |
 [orionLivePS4EUGameClient](permissions/a510a43d1fcc4636bc9c99a46a7cd50c.md) | `a510a43d1fcc4636bc9c99a46a7cd50c` | `2bd23b2e603d46c4939fcbf9d2b2f46a` |
