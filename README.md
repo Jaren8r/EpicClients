@@ -121,3 +121,4 @@ Every application (e.g. game, website) that utilises Epic's official services is
 [Fall Guys](permissions/xyza7891mADED0tPNJFOiF8OmI0DwY0J.md) | `xyza7891mADED0tPNJFOiF8OmI0DwY0J` | `8w2sDwL5/GuUjeVbHZIxe1FAFwi+tuQI2msSCVIO+EA` |
 [Rocket League](permissions/xyza7891p5D7s9R6Gm6moTHWGloerp7B.md) | `xyza7891p5D7s9R6Gm6moTHWGloerp7B` | `Knh18du4NVlFs+3uQ+ZPpDCVto0WYf4yXP8+OcwVt1o` |
 [Among Us](permissions/xyza7891qtrmoYLr86we6DlfCA1RRsp8.md) | `xyza7891qtrmoYLr86we6DlfCA1RRsp8` | `nGThQanzvthA2HPaARXe/xutzsKyx5WJveNkBx44ti4` |
+[Recipe for Disaster](permissions/xyza7891xRvwDrax33Qjy8pJ0wzKpxGv.md) | `xyza7891xRvwDrax33Qjy8pJ0wzKpxGv` | `iyA5TVP2IqNBzELp4zEXFtue59Y1DJOT4D5IDx1MQdw` |
