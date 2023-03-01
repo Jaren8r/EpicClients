@@ -30,7 +30,7 @@ Every application (e.g. game, website) that utilises Epic's official services is
 [fortnitePS5USGameClientTest](permissions/3cf19c6ba05a4fa3997957491e15ba1c.md) | `3cf19c6ba05a4fa3997957491e15ba1c` | `Unknown` |
 [wexPCGameClient](permissions/3cf78cd3b00b439a8755a878b160c7ad.md) | `3cf78cd3b00b439a8755a878b160c7ad` | `b383e0f4-f0cc-4d14-99e3-813c33fc1e9d` |
 [Rocket League](permissions/3cfbd28f92b0491f97e22ae827d10f14.md) | `3cfbd28f92b0491f97e22ae827d10f14` | `Unknown` |
-[fortniteValkyrieGameClient](permissions/3e13c5c57f594a578abe516eecb673fe.md) | `3e13c5c57f594a578abe516eecb673fe` | `530e316c337e409893c55ec44f22cd62` |
+[UEFN](permissions/3e13c5c57f594a578abe516eecb673fe.md) | `3e13c5c57f594a578abe516eecb673fe` | `530e316c337e409893c55ec44f22cd62` |
 [fortniteAndroidGameClient](permissions/3f69e56c7649492c8cc29f1af08a8a12.md) | `3f69e56c7649492c8cc29f1af08a8a12` | `b51ee9cb12234f50a69efa67ef53812e` |
 [unrealComClient](permissions/43e2dea89b054198a703f6199bee6d5b.md) | `43e2dea89b054198a703f6199bee6d5b` | `Unknown` |
 [ocean_web](permissions/4b6c700c72c44e178b12070f2719af1a.md) | `4b6c700c72c44e178b12070f2719af1a` | `Unknown` |
