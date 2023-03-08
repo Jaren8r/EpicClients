@@ -7,8 +7,10 @@ Unknown
 ## Account Permissions
 | Resource | Action |
 | - | - |
+| content-service:identity | READ |
 | valkyrie:content:plugin | READ |
 | content-service:package | READ |
+| content-service:identity:kws | CREATE READ |
 | content-service:persistence:* | READ |
 | content-service:project:* | READ |
 | content-service:module:* | READ |
