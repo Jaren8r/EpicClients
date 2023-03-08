@@ -115,6 +115,7 @@ Every application (e.g. game, website) that utilises Epic's official services is
 [publicClient](permissions/f2f868d1259e4b128e5b7e8a3732cb1a.md) | `f2f868d1259e4b128e5b7e8a3732cb1a` | `Unknown` |
 [launcherServiceClient](permissions/f3e80378aed4462498774a7951cd263f.md) | `f3e80378aed4462498774a7951cd263f` | `Unknown` |
 [ue4vbulletin](permissions/f65082b48b504eb88f73961b0131cda7.md) | `f65082b48b504eb88f73961b0131cda7` | `Unknown` |
+[wexpClient](permissions/f8eac541a1c241939f76d26cf2a673a6.md) | `f8eac541a1c241939f76d26cf2a673a6` | `Unknown` |
 [Google (YouTube)](permissions/fa39ae1203b5438280f515f38a50f08e.md) | `fa39ae1203b5438280f515f38a50f08e` | `Unknown` |
 [Hi-Rez](permissions/fd81de75ae49408183023bfc50a9f1cf.md) | `fd81de75ae49408183023bfc50a9f1cf` | `Unknown` |
 [Rumbleverse](permissions/xyza78910rMXccqfyI23kyiFLfqZjE6r.md) | `xyza78910rMXccqfyI23kyiFLfqZjE6r` | `o9HBX4oA8DuAyn1bNMPbzDpF90n01S88a9pUMRoHRKw` |
