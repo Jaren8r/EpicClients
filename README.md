@@ -123,6 +123,7 @@ Every application (e.g. game, website) that utilises Epic's official services is
 [Predecessor](permissions/xyza78911ZVl2JJ4PiNe8A9GGmUr5oKt.md) | `xyza78911ZVl2JJ4PiNe8A9GGmUr5oKt` | `Os/BB6g1wPE47GjN5NTcbwUQCjqApYlc4ggICPdWPtc` |
 [High On Life](permissions/xyza78911sV9U2YtoJJR9xoGVMcMmKhv.md) | `xyza78911sV9U2YtoJJR9xoGVMcMmKhv` | `8LVp+4mo3RH4KA03tvMFckTIkB4emBnySFe+GhzIVho` |
 [Fortnite](permissions/xyza7891343Fr4ZSPkQZ3kaL3I2sX8B5.md) | `xyza7891343Fr4ZSPkQZ3kaL3I2sX8B5` | `F8BVRyHIqmct8cN9KSPbXsJszpiIZEYEFDiySxc1wuA` |
+[PUBG BATTLEGROUNDS](permissions/xyza78913kAk0flyf7SIizBVXpHZgrao.md) | `xyza78913kAk0flyf7SIizBVXpHZgrao` | `Kmqf0BZBAJpPGwbP57X38JV5mF5HqYaxHpjaGg09yYQ` |
 [MultiVersus](permissions/xyza78914ucg8qGrE2tBEtjF6iWWc9OQ.md) | `xyza78914ucg8qGrE2tBEtjF6iWWc9OQ` | `Yu4GTawt3NJAYbf54tH679UawG+G4uuz7cGphezeBGw` |
 [Fall Guys](permissions/xyza7891mADED0tPNJFOiF8OmI0DwY0J.md) | `xyza7891mADED0tPNJFOiF8OmI0DwY0J` | `8w2sDwL5/GuUjeVbHZIxe1FAFwi+tuQI2msSCVIO+EA` |
 [Rocket League](permissions/xyza7891p5D7s9R6Gm6moTHWGloerp7B.md) | `xyza7891p5D7s9R6Gm6moTHWGloerp7B` | `Knh18du4NVlFs+3uQ+ZPpDCVto0WYf4yXP8+OcwVt1o` |
