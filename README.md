@@ -126,6 +126,7 @@ Every application (e.g. game, website) that utilises Epic's official services is
 [Fortnite](permissions/xyza7891343Fr4ZSPkQZ3kaL3I2sX8B5.md) | `xyza7891343Fr4ZSPkQZ3kaL3I2sX8B5` | `F8BVRyHIqmct8cN9KSPbXsJszpiIZEYEFDiySxc1wuA` |
 [PUBG BATTLEGROUNDS](permissions/xyza78913kAk0flyf7SIizBVXpHZgrao.md) | `xyza78913kAk0flyf7SIizBVXpHZgrao` | `Kmqf0BZBAJpPGwbP57X38JV5mF5HqYaxHpjaGg09yYQ` |
 [MultiVersus](permissions/xyza78914ucg8qGrE2tBEtjF6iWWc9OQ.md) | `xyza78914ucg8qGrE2tBEtjF6iWWc9OQ` | `Yu4GTawt3NJAYbf54tH679UawG+G4uuz7cGphezeBGw` |
+[Ghostwire: Tokyo](permissions/xyza78915vScy8geVRhnoyEc3GVB4dpj.md) | `xyza78915vScy8geVRhnoyEc3GVB4dpj` | `uO8yeTjlKWNMIEK+Yzea7rvJxxiLfLPbGbQ7IVg3jBg` |
 [Fall Guys](permissions/xyza7891mADED0tPNJFOiF8OmI0DwY0J.md) | `xyza7891mADED0tPNJFOiF8OmI0DwY0J` | `8w2sDwL5/GuUjeVbHZIxe1FAFwi+tuQI2msSCVIO+EA` |
 [Rocket League](permissions/xyza7891p5D7s9R6Gm6moTHWGloerp7B.md) | `xyza7891p5D7s9R6Gm6moTHWGloerp7B` | `Knh18du4NVlFs+3uQ+ZPpDCVto0WYf4yXP8+OcwVt1o` |
 [Bloons TD 6](permissions/xyza7891pGWD7qnIVNn9iDkrBYI05u75.md) | `xyza7891pGWD7qnIVNn9iDkrBYI05u75` | `M9XOPdRCur1G0N3H7dHdZ32LdMdNaLIHOv0ODHHGEUo` |
