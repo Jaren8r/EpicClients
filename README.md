@@ -130,6 +130,7 @@ Every application (e.g. game, website) that utilises Epic's official services is
 [Video Horror Society](permissions/xyza7891HmaagVvVwVMwuwhD71ErPC06.md) | `xyza7891HmaagVvVwVMwuwhD71ErPC06` | `tBzDnh+2/bCZfrXAzdXQE6K+/3pKRrS6/BPxmDeuzLA` |
 [Hi-Fi RUSH](permissions/xyza7891JM0wIcDNiBDkzpq2SLsNQMV2.md) | `xyza7891JM0wIcDNiBDkzpq2SLsNQMV2` | `xP0qHcU8kcCV0EUHvVM1JpaTJGFTYgq4FmGAZYfGa+M` |
 [Divine Knockout](permissions/xyza7891KuewOxTkka41qhWqTE2uVOhB.md) | `xyza7891KuewOxTkka41qhWqTE2uVOhB` | `BmwlokYY9xKy/D1Q9+GU4o1LS7SRXu4cSN/FjnUm2lk` |
+[Paragon: The Overprime](permissions/xyza7891SocyvfujqiMxhKgkprlykvNV.md) | `xyza7891SocyvfujqiMxhKgkprlykvNV` | `UhKuk2JzwQaIe+vU0HuAPM1zvNBdYbDNIO564leh83k` |
 [Fall Guys](permissions/xyza7891mADED0tPNJFOiF8OmI0DwY0J.md) | `xyza7891mADED0tPNJFOiF8OmI0DwY0J` | `8w2sDwL5/GuUjeVbHZIxe1FAFwi+tuQI2msSCVIO+EA` |
 [Rocket League](permissions/xyza7891p5D7s9R6Gm6moTHWGloerp7B.md) | `xyza7891p5D7s9R6Gm6moTHWGloerp7B` | `Knh18du4NVlFs+3uQ+ZPpDCVto0WYf4yXP8+OcwVt1o` |
 [Bloons TD 6](permissions/xyza7891pGWD7qnIVNn9iDkrBYI05u75.md) | `xyza7891pGWD7qnIVNn9iDkrBYI05u75` | `M9XOPdRCur1G0N3H7dHdZ32LdMdNaLIHOv0ODHHGEUo` |
