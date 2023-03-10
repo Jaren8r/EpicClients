@@ -6,5 +6,6 @@
 | - | - |
 
 ## Account Permissions
-Unknown
+| Resource | Action |
+| - | - |
 
