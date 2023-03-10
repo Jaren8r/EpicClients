@@ -131,6 +131,7 @@ Every application (e.g. game, website) that utilises Epic's official services is
 [Hi-Fi RUSH](permissions/xyza7891JM0wIcDNiBDkzpq2SLsNQMV2.md) | `xyza7891JM0wIcDNiBDkzpq2SLsNQMV2` | `xP0qHcU8kcCV0EUHvVM1JpaTJGFTYgq4FmGAZYfGa+M` |
 [Divine Knockout](permissions/xyza7891KuewOxTkka41qhWqTE2uVOhB.md) | `xyza7891KuewOxTkka41qhWqTE2uVOhB` | `BmwlokYY9xKy/D1Q9+GU4o1LS7SRXu4cSN/FjnUm2lk` |
 [Paragon: The Overprime](permissions/xyza7891SocyvfujqiMxhKgkprlykvNV.md) | `xyza7891SocyvfujqiMxhKgkprlykvNV` | `UhKuk2JzwQaIe+vU0HuAPM1zvNBdYbDNIO564leh83k` |
+[Core](permissions/xyza7891T0uxaKhcCfLZVLxYB2UFwLNy.md) | `xyza7891T0uxaKhcCfLZVLxYB2UFwLNy` | `TUWOITG2QCOb5gIwottoqPB3AdYiSaFt7lO4QNAZG7Y` |
 [Fall Guys](permissions/xyza7891mADED0tPNJFOiF8OmI0DwY0J.md) | `xyza7891mADED0tPNJFOiF8OmI0DwY0J` | `8w2sDwL5/GuUjeVbHZIxe1FAFwi+tuQI2msSCVIO+EA` |
 [Rocket League](permissions/xyza7891p5D7s9R6Gm6moTHWGloerp7B.md) | `xyza7891p5D7s9R6Gm6moTHWGloerp7B` | `Knh18du4NVlFs+3uQ+ZPpDCVto0WYf4yXP8+OcwVt1o` |
 [Bloons TD 6](permissions/xyza7891pGWD7qnIVNn9iDkrBYI05u75.md) | `xyza7891pGWD7qnIVNn9iDkrBYI05u75` | `M9XOPdRCur1G0N3H7dHdZ32LdMdNaLIHOv0ODHHGEUo` |
