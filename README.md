@@ -20,7 +20,7 @@ Every application (e.g. game, website) that utilises Epic's official services is
 [utDedicatedServer](permissions/6ff43e743edc4d1dbac3594877b4bed9.md) | `6ff43e743edc4d1dbac3594877b4bed9` | `54619d6f84d443e195200b54ab649a53` |
 [fortniteAndroidGameClient-deprecated](permissions/72f83226ab664739b635b1e318a635bc.md) | `72f83226ab664739b635b1e318a635bc` | `2f298cd32c6641fab2b0ceaa5bc9c92f` |
 [fortnitePS4EUGameClient](permissions/79a931b375334570ac369234f5da05ec.md) | `79a931b375334570ac369234f5da05ec` | `Unknown` |
-[fortniteValkyrieGameClient](permissions/8c99c65484304ba493a2bc1220656e80.md) | `8c99c65484304ba493a2bc1220656e80` | `0375eb2fe2644c0daf083e2f251a4648` |
+[UEFN](permissions/8c99c65484304ba493a2bc1220656e80.md) | `8c99c65484304ba493a2bc1220656e80` | `0375eb2fe2644c0daf083e2f251a4648` |
 [viper_web](permissions/8df415b848c74affb682907405f7a52b.md) | `8df415b848c74affb682907405f7a52b` | `Unknown` |
 [battlebreakers_web](permissions/8e873617d81d4caf89bae28a4b74bbfe.md) | `8e873617d81d4caf89bae28a4b74bbfe` | `Unknown` |
 [launcherPaymentClient2](permissions/8e889dadbfaf4145b3a806f51d1e3fee.md) | `8e889dadbfaf4145b3a806f51d1e3fee` | `2c6040b846404160abf5229c565d6ef7` |
