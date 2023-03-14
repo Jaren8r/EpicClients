@@ -135,6 +135,7 @@ Every application (e.g. game, website) that utilises Epic's official services is
 [Rocket League Sideswipe](permissions/xyza7891U64Mb4ZybQRpqALQxo1M6wEL.md) | `xyza7891U64Mb4ZybQRpqALQxo1M6wEL` | `NijjBQxXpq0JtZuBBuSbjGd/IZHnYB6uanyrz9N2Xqs` |
 [The Anacrusis](permissions/xyza7891atVNaa9a4cJxNwHMzLUO65Ad.md) | `xyza7891atVNaa9a4cJxNwHMzLUO65Ad` | `2Wb00R1YmZI3yO5Rrk3m9KUzeZT84c/W0DRLP5+g5AE` |
 [Game](permissions/xyza7891g1VCUqhzxGEUpy6lwSceg2gh.md) | `xyza7891g1VCUqhzxGEUpy6lwSceg2gh` | `nNVzl/l70hNiojQEpq5yvIh9mpyF0x8/vFptGBTKYzE` |
+[Idle Champions of the Forgotten Realm](permissions/xyza7891kXAfZljmmXBQvWTfhWa8bT7e.md) | `xyza7891kXAfZljmmXBQvWTfhWa8bT7e` | `PpkHY9t/WRLW28r8eMSwNk5xuqDIv+X7KGZ4EXPGuP4` |
 [Fall Guys](permissions/xyza7891mADED0tPNJFOiF8OmI0DwY0J.md) | `xyza7891mADED0tPNJFOiF8OmI0DwY0J` | `8w2sDwL5/GuUjeVbHZIxe1FAFwi+tuQI2msSCVIO+EA` |
 [Rocket League](permissions/xyza7891p5D7s9R6Gm6moTHWGloerp7B.md) | `xyza7891p5D7s9R6Gm6moTHWGloerp7B` | `Knh18du4NVlFs+3uQ+ZPpDCVto0WYf4yXP8+OcwVt1o` |
 [Bloons TD 6](permissions/xyza7891pGWD7qnIVNn9iDkrBYI05u75.md) | `xyza7891pGWD7qnIVNn9iDkrBYI05u75` | `M9XOPdRCur1G0N3H7dHdZ32LdMdNaLIHOv0ODHHGEUo` |
