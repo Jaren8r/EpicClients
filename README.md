@@ -100,6 +100,7 @@ Every application (e.g. game, website) that utilises Epic's official services is
 [Boundless](permissions/c62bb2285788480490e5da16c92717a2.md) | `c62bb2285788480490e5da16c92717a2` | `Unknown` |
 [fortniteComClient](permissions/cd2b7c19c9734a2ab98dc251868d7724.md) | `cd2b7c19c9734a2ab98dc251868d7724` | `Unknown` |
 [social-token-exchange-prod](permissions/cf27c69fe66441e8a8a4e8faf396ee4c.md) | `cf27c69fe66441e8a8a4e8faf396ee4c` | `Unknown` |
+[pep_web](permissions/cf34b582ab7343c7b928e155968f161f.md) | `cf34b582ab7343c7b928e155968f161f` | `Unknown` |
 [fortniteXboxGameClient](permissions/cfaa14c4bf8744e3a5ef9a5d6c34558d.md) | `cfaa14c4bf8744e3a5ef9a5d6c34558d` | `Unknown` |
 [Harmonix - Account Linking](permissions/d02935faf95a4518939b1b17e2f4b479.md) | `d02935faf95a4518939b1b17e2f4b479` | `Unknown` |
 [fortniteTrackerFortniteClient](permissions/d7c956d5f1de46088dc2f5b8fccae940.md) | `d7c956d5f1de46088dc2f5b8fccae940` | `Unknown` |
