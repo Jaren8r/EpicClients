@@ -145,3 +145,4 @@ Every application (e.g. game, website) that utilises Epic's official services is
 [Among Us](permissions/xyza7891qtrmoYLr86we6DlfCA1RRsp8.md) | `xyza7891qtrmoYLr86we6DlfCA1RRsp8` | `nGThQanzvthA2HPaARXe/xutzsKyx5WJveNkBx44ti4` |
 [Game](permissions/xyza7891wVd3fPopZvWKWbFfhtCGiW7u.md) | `xyza7891wVd3fPopZvWKWbFfhtCGiW7u` | `eKlLYNQUCUJ2kAm8OnlezZJGvpeXjQJL5wkqTW1cODs` |
 [Recipe for Disaster](permissions/xyza7891xRvwDrax33Qjy8pJ0wzKpxGv.md) | `xyza7891xRvwDrax33Qjy8pJ0wzKpxGv` | `iyA5TVP2IqNBzELp4zEXFtue59Y1DJOT4D5IDx1MQdw` |
+[Unreal Editor for Fortnite](permissions/xyza7891yeUe0F65IJR3u5L926ysnoYF.md) | `xyza7891yeUe0F65IJR3u5L926ysnoYF` | `y1eRdLNpU2vAN3bX1L24kGKOomXuylsdh0G80JpQkqQ` |
