@@ -131,6 +131,7 @@ Every application (e.g. game, website) that utilises Epic's official services is
 [PUBG BATTLEGROUNDS](permissions/xyza78913kAk0flyf7SIizBVXpHZgrao.md) | `xyza78913kAk0flyf7SIizBVXpHZgrao` | `Kmqf0BZBAJpPGwbP57X38JV5mF5HqYaxHpjaGg09yYQ` |
 [MultiVersus](permissions/xyza78914ucg8qGrE2tBEtjF6iWWc9OQ.md) | `xyza78914ucg8qGrE2tBEtjF6iWWc9OQ` | `Yu4GTawt3NJAYbf54tH679UawG+G4uuz7cGphezeBGw` |
 [Ghostwire: Tokyo](permissions/xyza78915vScy8geVRhnoyEc3GVB4dpj.md) | `xyza78915vScy8geVRhnoyEc3GVB4dpj` | `uO8yeTjlKWNMIEK+Yzea7rvJxxiLfLPbGbQ7IVg3jBg` |
+[Twinmotion](permissions/xyza7891AnAQLJdeU14BrdW27H7Dbxpn.md) | `xyza7891AnAQLJdeU14BrdW27H7Dbxpn` | `Lb7kmMvowYcp7dwEziwgLuQjXltq6vUM88xiZTEnPN8` |
 [Video Horror Society](permissions/xyza7891HmaagVvVwVMwuwhD71ErPC06.md) | `xyza7891HmaagVvVwVMwuwhD71ErPC06` | `tBzDnh+2/bCZfrXAzdXQE6K+/3pKRrS6/BPxmDeuzLA` |
 [Hi-Fi RUSH](permissions/xyza7891JM0wIcDNiBDkzpq2SLsNQMV2.md) | `xyza7891JM0wIcDNiBDkzpq2SLsNQMV2` | `xP0qHcU8kcCV0EUHvVM1JpaTJGFTYgq4FmGAZYfGa+M` |
 [Divine Knockout](permissions/xyza7891KuewOxTkka41qhWqTE2uVOhB.md) | `xyza7891KuewOxTkka41qhWqTE2uVOhB` | `BmwlokYY9xKy/D1Q9+GU4o1LS7SRXu4cSN/FjnUm2lk` |
