@@ -134,6 +134,7 @@ Every application (e.g. game, website) that utilises Epic's official services is
 [Twinmotion](permissions/xyza7891AnAQLJdeU14BrdW27H7Dbxpn.md) | `xyza7891AnAQLJdeU14BrdW27H7Dbxpn` | `Lb7kmMvowYcp7dwEziwgLuQjXltq6vUM88xiZTEnPN8` |
 [Video Horror Society](permissions/xyza7891HmaagVvVwVMwuwhD71ErPC06.md) | `xyza7891HmaagVvVwVMwuwhD71ErPC06` | `tBzDnh+2/bCZfrXAzdXQE6K+/3pKRrS6/BPxmDeuzLA` |
 [Hi-Fi RUSH](permissions/xyza7891JM0wIcDNiBDkzpq2SLsNQMV2.md) | `xyza7891JM0wIcDNiBDkzpq2SLsNQMV2` | `xP0qHcU8kcCV0EUHvVM1JpaTJGFTYgq4FmGAZYfGa+M` |
+[ZZT!](permissions/xyza7891KNT4pkKqVseoguuCN05gfoOz.md) | `xyza7891KNT4pkKqVseoguuCN05gfoOz` | `IAKXJQreIIYqW6N8E0XqLUxEKvKalhu6HP3AAtLPok8` |
 [Divine Knockout](permissions/xyza7891KuewOxTkka41qhWqTE2uVOhB.md) | `xyza7891KuewOxTkka41qhWqTE2uVOhB` | `BmwlokYY9xKy/D1Q9+GU4o1LS7SRXu4cSN/FjnUm2lk` |
 [Paragon: The Overprime](permissions/xyza7891SocyvfujqiMxhKgkprlykvNV.md) | `xyza7891SocyvfujqiMxhKgkprlykvNV` | `UhKuk2JzwQaIe+vU0HuAPM1zvNBdYbDNIO564leh83k` |
 [Core](permissions/xyza7891T0uxaKhcCfLZVLxYB2UFwLNy.md) | `xyza7891T0uxaKhcCfLZVLxYB2UFwLNy` | `TUWOITG2QCOb5gIwottoqPB3AdYiSaFt7lO4QNAZG7Y` |
