@@ -109,6 +109,7 @@ Every application (e.g. game, website) that utilises Epic's official services is
 [Network N](permissions/d978d5ac4e1545d59e4e93a05ce77e26.md) | `d978d5ac4e1545d59e4e93a05ce77e26` | `Unknown` |
 [fortniteXSXGameClient](permissions/db84fa58b60e468ba64e3b17209b56e9.md) | `db84fa58b60e468ba64e3b17209b56e9` | `Unknown` |
 [utDedicatedServerEpicHosted](permissions/e0aca23dfb7348d6bad648bbe175a6e6.md) | `e0aca23dfb7348d6bad648bbe175a6e6` | `Unknown` |
+[uefnDocsSiteProd](permissions/e1953a8e8b444cfb9e3bfbe2a7d19f2e.md) | `e1953a8e8b444cfb9e3bfbe2a7d19f2e` | `Unknown` |
 [Intel](permissions/e495114512ec497db52a053fc7b50651.md) | `e495114512ec497db52a053fc7b50651` | `Unknown` |
 [wexAndroidGameClient](permissions/e645e4b96298419cbffbfa353ebf8b82.md) | `e645e4b96298419cbffbfa353ebf8b82` | `d03089fd-628a-448a-ac39-0e8c5b022a11` |
 [utvbulletin](permissions/e7d1a3ee19ac4173b80a53006dc53be3.md) | `e7d1a3ee19ac4173b80a53006dc53be3` | `Unknown` |
