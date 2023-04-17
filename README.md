@@ -125,6 +125,7 @@ Every application (e.g. game, website) that utilises Epic's official services is
 [wexpClient](permissions/f8eac541a1c241939f76d26cf2a673a6.md) | `f8eac541a1c241939f76d26cf2a673a6` | `80f5551f151840ca9f52e2e14581a742` |
 [Google (YouTube)](permissions/fa39ae1203b5438280f515f38a50f08e.md) | `fa39ae1203b5438280f515f38a50f08e` | `Unknown` |
 [Hi-Rez](permissions/fd81de75ae49408183023bfc50a9f1cf.md) | `fd81de75ae49408183023bfc50a9f1cf` | `Unknown` |
+[Fortnite Creative Builders Challenge (Prod)](permissions/ffadeee8e6af4be394a65f2f29f0ac03.md) | `ffadeee8e6af4be394a65f2f29f0ac03` | `Unknown` |
 [Rumbleverse](permissions/xyza78910rMXccqfyI23kyiFLfqZjE6r.md) | `xyza78910rMXccqfyI23kyiFLfqZjE6r` | `o9HBX4oA8DuAyn1bNMPbzDpF90n01S88a9pUMRoHRKw` |
 [Predecessor](permissions/xyza78911ZVl2JJ4PiNe8A9GGmUr5oKt.md) | `xyza78911ZVl2JJ4PiNe8A9GGmUr5oKt` | `Os/BB6g1wPE47GjN5NTcbwUQCjqApYlc4ggICPdWPtc` |
 [High On Life](permissions/xyza78911sV9U2YtoJJR9xoGVMcMmKhv.md) | `xyza78911sV9U2YtoJJR9xoGVMcMmKhv` | `8LVp+4mo3RH4KA03tvMFckTIkB4emBnySFe+GhzIVho` |
