@@ -6,7 +6,7 @@ Every application (e.g. game, website) that utilises Epic's official services is
 | - | - | - |
 [epicgamesWebsiteClient](permissions/007c0bfe154c4f5396648f013c641dcf.md) | `007c0bfe154c4f5396648f013c641dcf` | `Unknown` |
 [Satisfactory](permissions/02612880aa774fb28e3741d3e01501fd.md) | `02612880aa774fb28e3741d3e01501fd` | `7ZP]vm+i.uoetw@RxqRXpod_RNyjPC-%GM#ac~Pc` |
-[fortnitePS5USGameClient](permissions/03f2645147214e1ab368caa78c5fca81.md) | `03f2645147214e1ab368caa78c5fca81` | `Unknown` |
+[Fortnite](permissions/03f2645147214e1ab368caa78c5fca81.md) | `03f2645147214e1ab368caa78c5fca81` | `Unknown` |
 [Kairos Android](permissions/0716a69cb8b2422fbb2a8b0879501471.md) | `0716a69cb8b2422fbb2a8b0879501471` | `cGthdfG68tyE7M3ZHMu3sXUBwqhibKFp` |
 [Sid Meier's Civilization VI](permissions/0a4056c60cfd4e1f9f28795e529cd0c3.md) | `0a4056c60cfd4e1f9f28795e529cd0c3` | `MZ8+TE8PHc9+n7WbSYMJ8QlQU4oHPUlVXRO5D6toxAw` |
 [fortniteEsportsComClient](permissions/0fa561666d6e41cb95b2a357a8b4a6f3.md) | `0fa561666d6e41cb95b2a357a8b4a6f3` | `Unknown` |
@@ -22,16 +22,16 @@ Every application (e.g. game, website) that utilises Epic's official services is
 [Fortnite Community Battles](permissions/26c2c1eeeb9141a08d2e52afdda30fde.md) | `26c2c1eeeb9141a08d2e52afdda30fde` | `Unknown` |
 [paymentWebClient](permissions/29cee42e711746e1bbcafb62929e48fd.md) | `29cee42e711746e1bbcafb62929e48fd` | `Unknown` |
 [graphqlWebsite](permissions/319e1527d0be4457a1067829fc0ad86e.md) | `319e1527d0be4457a1067829fc0ad86e` | `Unknown` |
-[fortniteIOSGameClient](permissions/3446cd72694c4a4485d81b77adbb2141.md) | `3446cd72694c4a4485d81b77adbb2141` | `9209d4a5e25a457fb9b07489d313b41a` |
+[Fortnite](permissions/3446cd72694c4a4485d81b77adbb2141.md) | `3446cd72694c4a4485d81b77adbb2141` | `9209d4a5e25a457fb9b07489d313b41a` |
 [launcherAppClient2](permissions/34a02cf8f4414e29b15921876da36f9a.md) | `34a02cf8f4414e29b15921876da36f9a` | `daafbccc737745039dffe53d94fc76cf` |
-[fortnitePS5EUGameClient](permissions/386cbbc78d57464181005c3f7edfad0d.md) | `386cbbc78d57464181005c3f7edfad0d` | `Unknown` |
+[Fortnite](permissions/386cbbc78d57464181005c3f7edfad0d.md) | `386cbbc78d57464181005c3f7edfad0d` | `Unknown` |
 [androidPortal](permissions/38dbfc3196024d5980386a37b7c792bb.md) | `38dbfc3196024d5980386a37b7c792bb` | `a6280b87-e45e-409b-9681-8f15eb7dbcf5` |
 [unrealissues](permissions/3adb22b897e24666971f9a273b1c15e8.md) | `3adb22b897e24666971f9a273b1c15e8` | `Unknown` |
-[fortnitePS5USGameClientTest](permissions/3cf19c6ba05a4fa3997957491e15ba1c.md) | `3cf19c6ba05a4fa3997957491e15ba1c` | `Unknown` |
+[Fortnite](permissions/3cf19c6ba05a4fa3997957491e15ba1c.md) | `3cf19c6ba05a4fa3997957491e15ba1c` | `Unknown` |
 [wexPCGameClient](permissions/3cf78cd3b00b439a8755a878b160c7ad.md) | `3cf78cd3b00b439a8755a878b160c7ad` | `b383e0f4-f0cc-4d14-99e3-813c33fc1e9d` |
 [Rocket League](permissions/3cfbd28f92b0491f97e22ae827d10f14.md) | `3cfbd28f92b0491f97e22ae827d10f14` | `Unknown` |
-[UEFN](permissions/3e13c5c57f594a578abe516eecb673fe.md) | `3e13c5c57f594a578abe516eecb673fe` | `530e316c337e409893c55ec44f22cd62` |
-[fortniteAndroidGameClient](permissions/3f69e56c7649492c8cc29f1af08a8a12.md) | `3f69e56c7649492c8cc29f1af08a8a12` | `b51ee9cb12234f50a69efa67ef53812e` |
+[Unreal Editor for Fortnite](permissions/3e13c5c57f594a578abe516eecb673fe.md) | `3e13c5c57f594a578abe516eecb673fe` | `530e316c337e409893c55ec44f22cd62` |
+[Fortnite](permissions/3f69e56c7649492c8cc29f1af08a8a12.md) | `3f69e56c7649492c8cc29f1af08a8a12` | `b51ee9cb12234f50a69efa67ef53812e` |
 [unrealComClient](permissions/43e2dea89b054198a703f6199bee6d5b.md) | `43e2dea89b054198a703f6199bee6d5b` | `Unknown` |
 [ocean_web](permissions/4b6c700c72c44e178b12070f2719af1a.md) | `4b6c700c72c44e178b12070f2719af1a` | `Unknown` |
 [affiliate_web](permissions/4d9a4e9e568a40faa77b9757b4fac210.md) | `4d9a4e9e568a40faa77b9757b4fac210` | `Unknown` |
@@ -55,14 +55,14 @@ Every application (e.g. game, website) that utilises Epic's official services is
 [fortniteAndroidGameClient-deprecated](permissions/72f83226ab664739b635b1e318a635bc.md) | `72f83226ab664739b635b1e318a635bc` | `2f298cd32c6641fab2b0ceaa5bc9c92f` |
 [FORTNITE RVS](permissions/74554a19f3674cb094a467237d174c16.md) | `74554a19f3674cb094a467237d174c16` | `Unknown` |
 [Fortnite Activation Web Application](permissions/77bf1d2f9e1b4801b4c9305cca1c7dd7.md) | `77bf1d2f9e1b4801b4c9305cca1c7dd7` | `Unknown` |
-[fortnitePS4EUGameClient](permissions/79a931b375334570ac369234f5da05ec.md) | `79a931b375334570ac369234f5da05ec` | `Unknown` |
+[Fortnite](permissions/79a931b375334570ac369234f5da05ec.md) | `79a931b375334570ac369234f5da05ec` | `Unknown` |
 [Epic Games Client Service](permissions/7a40f8cdafd346219a4a0a15522b8ed7.md) | `7a40f8cdafd346219a4a0a15522b8ed7` | `a94578c3-3a79-4441-ad22-a4ef6c9380a1` |
 [Most Wanted Campaign - Production](permissions/7a6e43d7f86147de82fcbecfb28c2256.md) | `7a6e43d7f86147de82fcbecfb28c2256` | `Unknown` |
 [Diesel - Monomi Park - Slime Rancher](permissions/7c0e608d74ec4f40a1d58beb26639367.md) | `7c0e608d74ec4f40a1d58beb26639367` | `P9A63tad7Yk5FPRRmqbopgACDq99em` |
 [creativeModeWebsite](permissions/7de9f4b799d3470984093b218287dc72.md) | `7de9f4b799d3470984093b218287dc72` | `Unknown` |
 [Diesel - Hi-Rez - Rogue Company](permissions/7f7b1f9ac72440408d65115cd49d0184.md) | `7f7b1f9ac72440408d65115cd49d0184` | `WgUdnDX3ebNU3Y8Rk2K9bmnBkJqdKMbnQ8jPbfjLJntP` |
 [self-service-portal](permissions/8177ec72e7364c59a61a36213900ba67.md) | `8177ec72e7364c59a61a36213900ba67` | `Unknown` |
-[fortnitePCQAGameClientTest](permissions/81ffd992c8a94ccaaaa6bd74c073ce6a.md) | `81ffd992c8a94ccaaaa6bd74c073ce6a` | `Unknown` |
+[Fortnite](permissions/81ffd992c8a94ccaaaa6bd74c073ce6a.md) | `81ffd992c8a94ccaaaa6bd74c073ce6a` | `Unknown` |
 [oceanIOSGameClient](permissions/82f0e5faa90c4c209136870c50ae5642.md) | `82f0e5faa90c4c209136870c50ae5642` | `73bf9f20-9bb0-481f-afd3-bfedc608ed8f` |
 [Creative Mayhem - Love Is In The Air - Auth (Prod)](permissions/83e7c74755d44603b75020b86a70e150.md) | `83e7c74755d44603b75020b86a70e150` | `Unknown` |
 [Remedy 505 Control Game Client](permissions/8522af44af194836a532884e84d2b6e2.md) | `8522af44af194836a532884e84d2b6e2` | `9dc959b5-0fb6-45aa-a08c-96c539d9b85e` |
@@ -76,7 +76,7 @@ Every application (e.g. game, website) that utilises Epic's official services is
 [unrealNodeComClient](permissions/932e595bedb643d9ba56d3e1089a5c4b.md) | `932e595bedb643d9ba56d3e1089a5c4b` | `Unknown` |
 [merch-sso](permissions/9427129c087d4049886d3b47349d1aad.md) | `9427129c087d4049886d3b47349d1aad` | `Unknown` |
 [Refer a Friend](permissions/94b8b951a116407dae2bbf22dadb192e.md) | `94b8b951a116407dae2bbf22dadb192e` | `Unknown` |
-[fortniteNewSwitchGameClient](permissions/98f7e42c2e3a4f86a74eb43fbb41ed39.md) | `98f7e42c2e3a4f86a74eb43fbb41ed39` | `0a2449a2-001a-451e-afec-3e812901c4d7` |
+[Fortnite](permissions/98f7e42c2e3a4f86a74eb43fbb41ed39.md) | `98f7e42c2e3a4f86a74eb43fbb41ed39` | `0a2449a2-001a-451e-afec-3e812901c4d7` |
 [Diesel - Dodo](permissions/9a06a69c0c8a458caab330d48badb877.md) | `9a06a69c0c8a458caab330d48badb877` | `be4d1tppwi9eskufqmyz4x4hf0ndubqn0ru1zs9tkmhf` |
 [orionLivePS4GameClient](permissions/9fe4a9e4584c43a0bca6bd22a52f2f40.md) | `9fe4a9e4584c43a0bca6bd22a52f2f40` | `3bc094a9bab74dcdb8bb74c836758d48` |
 [StreamElements](permissions/a29e10f56c484fcdbb3be1bd1c77769a.md) | `a29e10f56c484fcdbb3be1bd1c77769a` | `Unknown` |
@@ -102,19 +102,19 @@ Every application (e.g. game, website) that utilises Epic's official services is
 [fortniteComClient](permissions/cd2b7c19c9734a2ab98dc251868d7724.md) | `cd2b7c19c9734a2ab98dc251868d7724` | `Unknown` |
 [social-token-exchange-prod](permissions/cf27c69fe66441e8a8a4e8faf396ee4c.md) | `cf27c69fe66441e8a8a4e8faf396ee4c` | `Unknown` |
 [pep_web](permissions/cf34b582ab7343c7b928e155968f161f.md) | `cf34b582ab7343c7b928e155968f161f` | `Unknown` |
-[fortniteXboxGameClient](permissions/cfaa14c4bf8744e3a5ef9a5d6c34558d.md) | `cfaa14c4bf8744e3a5ef9a5d6c34558d` | `Unknown` |
+[Fortnite](permissions/cfaa14c4bf8744e3a5ef9a5d6c34558d.md) | `cfaa14c4bf8744e3a5ef9a5d6c34558d` | `Unknown` |
 [Harmonix - Account Linking](permissions/d02935faf95a4518939b1b17e2f4b479.md) | `d02935faf95a4518939b1b17e2f4b479` | `Unknown` |
 [fortniteTrackerFortniteClient](permissions/d7c956d5f1de46088dc2f5b8fccae940.md) | `d7c956d5f1de46088dc2f5b8fccae940` | `Unknown` |
-[fortnitePS4USGameClient](permissions/d8566f2e7f5c48f89683173eb529fee1.md) | `d8566f2e7f5c48f89683173eb529fee1` | `Unknown` |
+[Fortnite](permissions/d8566f2e7f5c48f89683173eb529fee1.md) | `d8566f2e7f5c48f89683173eb529fee1` | `Unknown` |
 [Network N](permissions/d978d5ac4e1545d59e4e93a05ce77e26.md) | `d978d5ac4e1545d59e4e93a05ce77e26` | `Unknown` |
-[fortniteXSXGameClient](permissions/db84fa58b60e468ba64e3b17209b56e9.md) | `db84fa58b60e468ba64e3b17209b56e9` | `Unknown` |
+[Fortnite](permissions/db84fa58b60e468ba64e3b17209b56e9.md) | `db84fa58b60e468ba64e3b17209b56e9` | `Unknown` |
 [utDedicatedServerEpicHosted](permissions/e0aca23dfb7348d6bad648bbe175a6e6.md) | `e0aca23dfb7348d6bad648bbe175a6e6` | `Unknown` |
 [uefnDocsSiteProd](permissions/e1953a8e8b444cfb9e3bfbe2a7d19f2e.md) | `e1953a8e8b444cfb9e3bfbe2a7d19f2e` | `Unknown` |
 [Intel](permissions/e495114512ec497db52a053fc7b50651.md) | `e495114512ec497db52a053fc7b50651` | `Unknown` |
 [Account Portal](permissions/e49e067bb11c4722a34b2b3b8a6a6355.md) | `e49e067bb11c4722a34b2b3b8a6a6355` | `Unknown` |
 [wexAndroidGameClient](permissions/e645e4b96298419cbffbfa353ebf8b82.md) | `e645e4b96298419cbffbfa353ebf8b82` | `d03089fd-628a-448a-ac39-0e8c5b022a11` |
 [utvbulletin](permissions/e7d1a3ee19ac4173b80a53006dc53be3.md) | `e7d1a3ee19ac4173b80a53006dc53be3` | `Unknown` |
-[fortnitePCGameClient](permissions/ec684b8c687f479fadea3cb2ad83f5c6.md) | `ec684b8c687f479fadea3cb2ad83f5c6` | `e1f31c211f28413186262d37a13fc84d` |
+[Fortnite](permissions/ec684b8c687f479fadea3cb2ad83f5c6.md) | `ec684b8c687f479fadea3cb2ad83f5c6` | `e1f31c211f28413186262d37a13fc84d` |
 [wexIOSGameClient](permissions/ec813099a59f48d4a338f1901c1609db.md) | `ec813099a59f48d4a338f1901c1609db` | `72f6db62-0e3e-4439-97df-ee21f7b0ae94` |
 [fortniteCNGameClient](permissions/efe3cbb938804c74b20e109d0efc1548.md) | `efe3cbb938804c74b20e109d0efc1548` | `6e31bdbae6a44f258474733db74f39ba` |
 [content-service-livetesting-web](permissions/f09fd7f36cc54b5fa08fb3f0e371e438.md) | `f09fd7f36cc54b5fa08fb3f0e371e438` | `Unknown` |
