@@ -5,5 +5,8 @@
 Unknown
 
 ## Account Permissions
-Unknown
+| Resource | Action |
+| - | - |
+| fortnite:stats | READ |
+| account:public:account | READ |
 
