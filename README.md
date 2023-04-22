@@ -33,6 +33,7 @@ Every application (e.g. game, website) that utilises Epic's official services is
 [Unreal Editor for Fortnite](permissions/3e13c5c57f594a578abe516eecb673fe.md) | `3e13c5c57f594a578abe516eecb673fe` | `530e316c337e409893c55ec44f22cd62` |
 [Fortnite](permissions/3f69e56c7649492c8cc29f1af08a8a12.md) | `3f69e56c7649492c8cc29f1af08a8a12` | `b51ee9cb12234f50a69efa67ef53812e` |
 [unrealComClient](permissions/43e2dea89b054198a703f6199bee6d5b.md) | `43e2dea89b054198a703f6199bee6d5b` | `Unknown` |
+[Diesel - A4](permissions/44c39619da304266855c9646e1081ab5.md) | `44c39619da304266855c9646e1081ab5` | `Unknown` |
 [ocean_web](permissions/4b6c700c72c44e178b12070f2719af1a.md) | `4b6c700c72c44e178b12070f2719af1a` | `Unknown` |
 [affiliate_web](permissions/4d9a4e9e568a40faa77b9757b4fac210.md) | `4d9a4e9e568a40faa77b9757b4fac210` | `Unknown` |
 [content-service-live-web](permissions/4e1e74dcfe6e4d6eaea66fec15f9b9d4.md) | `4e1e74dcfe6e4d6eaea66fec15f9b9d4` | `Unknown` |
