@@ -22,6 +22,7 @@ Every application (e.g. game, website) that utilises Epic's official services is
 [launcherWebClient](permissions/24a1bff3f90749efbfcbc576c626a282.md) | `24a1bff3f90749efbfcbc576c626a282` | `Unknown` |
 [Fortnite Community Battles](permissions/26c2c1eeeb9141a08d2e52afdda30fde.md) | `26c2c1eeeb9141a08d2e52afdda30fde` | `Unknown` |
 [paymentWebClient](permissions/29cee42e711746e1bbcafb62929e48fd.md) | `29cee42e711746e1bbcafb62929e48fd` | `Unknown` |
+[orion_vbulletin](permissions/2dbc329331744d4497d9a48640332920.md) | `2dbc329331744d4497d9a48640332920` | `Unknown` |
 [graphqlWebsite](permissions/319e1527d0be4457a1067829fc0ad86e.md) | `319e1527d0be4457a1067829fc0ad86e` | `Unknown` |
 [Fortnite](permissions/3446cd72694c4a4485d81b77adbb2141.md) | `3446cd72694c4a4485d81b77adbb2141` | `9209d4a5e25a457fb9b07489d313b41a` |
 [launcherAppClient2](permissions/34a02cf8f4414e29b15921876da36f9a.md) | `34a02cf8f4414e29b15921876da36f9a` | `daafbccc737745039dffe53d94fc76cf` |
@@ -54,7 +55,9 @@ Every application (e.g. game, website) that utilises Epic's official services is
 [Crown Clash - Auth - Production](permissions/686b2e69ff714b96bd291ec9d4a5df0a.md) | `686b2e69ff714b96bd291ec9d4a5df0a` | `Unknown` |
 [Rockstar Games - Game Client](permissions/6b3b277c50a74855ab9beff2d62428aa.md) | `6b3b277c50a74855ab9beff2d62428aa` | `4h8MBChGbrV2woGgr2fdaYn2iWtHdf9F` |
 [ueLauncherSite](permissions/6b4462add71f4d9eb14dcf75c7153a89.md) | `6b4462add71f4d9eb14dcf75c7153a89` | `Unknown` |
+[orion_web](permissions/6c92a5a9c9524fc88f713a5bcf0d99f4.md) | `6c92a5a9c9524fc88f713a5bcf0d99f4` | `Unknown` |
 [EM 2](permissions/6d2a42a9fa1c4242a2783f690ee0bb2c.md) | `6d2a42a9fa1c4242a2783f690ee0bb2c` | `Unknown` |
+[MudRunner](permissions/6f7a091344af4804a5f3bbf0cbbf0011.md) | `6f7a091344af4804a5f3bbf0cbbf0011` | `Unknown` |
 [utDedicatedServer](permissions/6ff43e743edc4d1dbac3594877b4bed9.md) | `6ff43e743edc4d1dbac3594877b4bed9` | `54619d6f84d443e195200b54ab649a53` |
 [Naruto Nindo](permissions/70e113f930c8478d9bcbab61ef3cbd4f.md) | `70e113f930c8478d9bcbab61ef3cbd4f` | `Unknown` |
 [fortniteAndroidGameClient-deprecated](permissions/72f83226ab664739b635b1e318a635bc.md) | `72f83226ab664739b635b1e318a635bc` | `2f298cd32c6641fab2b0ceaa5bc9c92f` |
