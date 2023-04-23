@@ -24,6 +24,7 @@ Every application (e.g. game, website) that utilises Epic's official services is
 [paymentWebClient](permissions/29cee42e711746e1bbcafb62929e48fd.md) | `29cee42e711746e1bbcafb62929e48fd` | `Unknown` |
 [orion_vbulletin](permissions/2dbc329331744d4497d9a48640332920.md) | `2dbc329331744d4497d9a48640332920` | `Unknown` |
 [graphqlWebsite](permissions/319e1527d0be4457a1067829fc0ad86e.md) | `319e1527d0be4457a1067829fc0ad86e` | `Unknown` |
+[Green Man Gaming](permissions/3318a81163c54fea954b3a556e50f0ce.md) | `3318a81163c54fea954b3a556e50f0ce` | `Unknown` |
 [Fortnite](permissions/3446cd72694c4a4485d81b77adbb2141.md) | `3446cd72694c4a4485d81b77adbb2141` | `9209d4a5e25a457fb9b07489d313b41a` |
 [launcherAppClient2](permissions/34a02cf8f4414e29b15921876da36f9a.md) | `34a02cf8f4414e29b15921876da36f9a` | `daafbccc737745039dffe53d94fc76cf` |
 [Fortnite](permissions/386cbbc78d57464181005c3f7edfad0d.md) | `386cbbc78d57464181005c3f7edfad0d` | `Unknown` |
