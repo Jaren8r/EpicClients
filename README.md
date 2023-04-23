@@ -90,6 +90,7 @@ Every application (e.g. game, website) that utilises Epic's official services is
 [Diesel - Dauntless](permissions/b070f20729f84693b5d621c904fc5bc2.md) | `b070f20729f84693b5d621c904fc5bc2` | `HG@XE&TGCxEJsgT#&_p2]=aRo#~>=>+c6PhR)zXP` |
 [SF Community](permissions/b31a9e178ab84b21ad7435a53e4da4af.md) | `b31a9e178ab84b21ad7435a53e4da4af` | `Unknown` |
 [fulfillmentClient](permissions/b3a0d1d6558b788e27a8c044083375ef.md) | `b3a0d1d6558b788e27a8c044083375ef` | `Unknown` |
+[Diabotical](permissions/b4c61212277e48a29b0a5351eedc3df8.md) | `b4c61212277e48a29b0a5351eedc3df8` | `Unknown` |
 [Quixel](permissions/b9101103b8814baa9bb4e79e5eb107d0.md) | `b9101103b8814baa9bb4e79e5eb107d0` | `Unknown` |
 [publishingWebsiteClient](permissions/ba517836005c460eb18d368fa35eb002.md) | `ba517836005c460eb18d368fa35eb002` | `Unknown` |
 [fortniteHKGameClient](permissions/bb69d1e9bedb4c04a9e64a63a40aa2a4.md) | `bb69d1e9bedb4c04a9e64a63a40aa2a4` | `f7debd4825cf4929a19e3e4010641ab5` |
@@ -105,6 +106,7 @@ Every application (e.g. game, website) that utilises Epic's official services is
 [pep_web](permissions/cf34b582ab7343c7b928e155968f161f.md) | `cf34b582ab7343c7b928e155968f161f` | `Unknown` |
 [Fortnite](permissions/cfaa14c4bf8744e3a5ef9a5d6c34558d.md) | `cfaa14c4bf8744e3a5ef9a5d6c34558d` | `Unknown` |
 [Harmonix - Account Linking](permissions/d02935faf95a4518939b1b17e2f4b479.md) | `d02935faf95a4518939b1b17e2f4b479` | `Unknown` |
+[Clock - Valentine's Creator Challenge Prod](permissions/d2d937c0320e4e2abe06b7ac1a1b9cf7.md) | `d2d937c0320e4e2abe06b7ac1a1b9cf7` | `Unknown` |
 [fortniteTrackerFortniteClient](permissions/d7c956d5f1de46088dc2f5b8fccae940.md) | `d7c956d5f1de46088dc2f5b8fccae940` | `Unknown` |
 [Fortnite](permissions/d8566f2e7f5c48f89683173eb529fee1.md) | `d8566f2e7f5c48f89683173eb529fee1` | `Unknown` |
 [Network N](permissions/d978d5ac4e1545d59e4e93a05ce77e26.md) | `d978d5ac4e1545d59e4e93a05ce77e26` | `Unknown` |
