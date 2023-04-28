@@ -159,6 +159,7 @@ Every application (e.g. game, website) that utilises Epic's official services is
 [Hi-Fi RUSH](permissions/xyza7891JM0wIcDNiBDkzpq2SLsNQMV2.md) | `xyza7891JM0wIcDNiBDkzpq2SLsNQMV2` | `xP0qHcU8kcCV0EUHvVM1JpaTJGFTYgq4FmGAZYfGa+M` |
 [ZZT!](permissions/xyza7891KNT4pkKqVseoguuCN05gfoOz.md) | `xyza7891KNT4pkKqVseoguuCN05gfoOz` | `IAKXJQreIIYqW6N8E0XqLUxEKvKalhu6HP3AAtLPok8` |
 [Divine Knockout](permissions/xyza7891KuewOxTkka41qhWqTE2uVOhB.md) | `xyza7891KuewOxTkka41qhWqTE2uVOhB` | `BmwlokYY9xKy/D1Q9+GU4o1LS7SRXu4cSN/FjnUm2lk` |
+[Dead Island 2](permissions/xyza7891OQTXocGyB9xJm9MLhegbAJ0X.md) | `xyza7891OQTXocGyB9xJm9MLhegbAJ0X` | `lFR5CasW29FOvAi+2kBnC0/4qN65yDNixYXF9Tjq+/U` |
 [Paragon: The Overprime](permissions/xyza7891SocyvfujqiMxhKgkprlykvNV.md) | `xyza7891SocyvfujqiMxhKgkprlykvNV` | `UhKuk2JzwQaIe+vU0HuAPM1zvNBdYbDNIO564leh83k` |
 [Core](permissions/xyza7891T0uxaKhcCfLZVLxYB2UFwLNy.md) | `xyza7891T0uxaKhcCfLZVLxYB2UFwLNy` | `TUWOITG2QCOb5gIwottoqPB3AdYiSaFt7lO4QNAZG7Y` |
 [Rocket League Sideswipe](permissions/xyza7891U64Mb4ZybQRpqALQxo1M6wEL.md) | `xyza7891U64Mb4ZybQRpqALQxo1M6wEL` | `NijjBQxXpq0JtZuBBuSbjGd/IZHnYB6uanyrz9N2Xqs` |
