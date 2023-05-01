@@ -7,8 +7,10 @@ Every application (e.g. game, website) that utilises Epic's official services is
 [epicgamesWebsiteClient](permissions/007c0bfe154c4f5396648f013c641dcf.md) | `007c0bfe154c4f5396648f013c641dcf` | `Unknown` |
 [utClient](permissions/1252412dc7704a9690f6ea4611bc81ee.md) | `1252412dc7704a9690f6ea4611bc81ee` | `2ca0c925b4674852bff92b26f8322434` |
 [orionLivePCGameClient](permissions/1483ba7d6c0247828c26cc8a74a9a183.md) | `1483ba7d6c0247828c26cc8a74a9a183` | `78facc4029ed4d66801a5402adad79c8` |
+[androidPortal](permissions/1ea8131a415347f49ca78a6a81e2b66f.md) | `1ea8131a415347f49ca78a6a81e2b66f` | `69c9500c-91bf-4975-bf05-cc932af46efd` |
 [launcherWebClient](permissions/24a1bff3f90749efbfcbc576c626a282.md) | `24a1bff3f90749efbfcbc576c626a282` | `Unknown` |
 [paymentWebClient](permissions/29cee42e711746e1bbcafb62929e48fd.md) | `29cee42e711746e1bbcafb62929e48fd` | `Unknown` |
+[fortniteGameClient](permissions/300d79839c914445948e3c1100f211db.md) | `300d79839c914445948e3c1100f211db` | `Unknown` |
 [fortniteIOSGameClient](permissions/3446cd72694c4a4485d81b77adbb2141.md) | `3446cd72694c4a4485d81b77adbb2141` | `9209d4a5e25a457fb9b07489d313b41a` |
 [launcherAppClient2](permissions/34a02cf8f4414e29b15921876da36f9a.md) | `34a02cf8f4414e29b15921876da36f9a` | `daafbccc737745039dffe53d94fc76cf` |
 [unrealissues](permissions/3adb22b897e24666971f9a273b1c15e8.md) | `3adb22b897e24666971f9a273b1c15e8` | `Unknown` |
@@ -31,7 +33,9 @@ Every application (e.g. game, website) that utilises Epic's official services is
 [fulfillmentClient](permissions/b3a0d1d6558b788e27a8c044083375ef.md) | `b3a0d1d6558b788e27a8c044083375ef` | `Unknown` |
 [fortniteHKGameClient](permissions/bb69d1e9bedb4c04a9e64a63a40aa2a4.md) | `bb69d1e9bedb4c04a9e64a63a40aa2a4` | `Unknown` |
 [udnClient](permissions/bc742d26f8314469aa997373f39c876e.md) | `bc742d26f8314469aa997373f39c876e` | `Unknown` |
+[adminportal](permissions/be806bc37c6f4bb9874430ebb11a6eaa.md) | `be806bc37c6f4bb9874430ebb11a6eaa` | `Unknown` |
 [ue4answerhub](permissions/c4c02c7c99e94ed9870a9dbeafab2c3f.md) | `c4c02c7c99e94ed9870a9dbeafab2c3f` | `Unknown` |
+[content-service-stage-web](permissions/c7d5e728807d464ab81aed3746d1c831.md) | `c7d5e728807d464ab81aed3746d1c831` | `Unknown` |
 [fortniteComClient](permissions/cd2b7c19c9734a2ab98dc251868d7724.md) | `cd2b7c19c9734a2ab98dc251868d7724` | `Unknown` |
 [fortniteXboxGameClient](permissions/cfaa14c4bf8744e3a5ef9a5d6c34558d.md) | `cfaa14c4bf8744e3a5ef9a5d6c34558d` | `Unknown` |
 [fortnitePS4USGameClient](permissions/d8566f2e7f5c48f89683173eb529fee1.md) | `d8566f2e7f5c48f89683173eb529fee1` | `Unknown` |
@@ -42,3 +46,4 @@ Every application (e.g. game, website) that utilises Epic's official services is
 [publicClient](permissions/f2f868d1259e4b128e5b7e8a3732cb1a.md) | `f2f868d1259e4b128e5b7e8a3732cb1a` | `Unknown` |
 [launcherServiceClient](permissions/f3e80378aed4462498774a7951cd263f.md) | `f3e80378aed4462498774a7951cd263f` | `Unknown` |
 [ue4vbulletin](permissions/f65082b48b504eb88f73961b0131cda7.md) | `f65082b48b504eb88f73961b0131cda7` | `Unknown` |
+[wexpClient](permissions/f8eac541a1c241939f76d26cf2a673a6.md) | `f8eac541a1c241939f76d26cf2a673a6` | `80f5551f151840ca9f52e2e14581a742` |
