@@ -6,7 +6,7 @@ Unknown
 
 ## Account Permissions
 | Resource | Action |
-| - | - |
+| -------- | ------ |
 | content-service:identity | READ |
 | valkyrie:content:plugin | READ |
 | content-service:package | READ |
