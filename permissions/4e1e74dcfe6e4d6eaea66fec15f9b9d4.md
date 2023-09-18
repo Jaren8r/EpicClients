@@ -15,5 +15,6 @@ Unknown
 | content-service:project:* | READ |
 | content-service:module:* | READ |
 | content-service:team:* | READ |
+| content-service:project:launch-data UPDATE | UPDATE |
 | content-service:sysmeta | READ |
 
