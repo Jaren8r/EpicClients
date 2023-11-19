@@ -8,13 +8,13 @@ Unknown
 | Resource | Action |
 | -------- | ------ |
 | content-service:identity | READ |
-| valkyrie:content:plugin | READ |
-| content-service:package | READ |
 | content-service:identity:kws | CREATE READ |
+| content-service:module:* | READ |
+| content-service:package | READ |
 | content-service:persistence:* | READ |
 | content-service:project:* | READ |
-| content-service:module:* | READ |
-| content-service:team:* | READ |
 | content-service:project:launch-data UPDATE | UPDATE |
 | content-service:sysmeta | READ |
+| content-service:team:* | READ |
+| valkyrie:content:plugin | READ |
 
