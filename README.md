@@ -40,7 +40,7 @@ Every application (e.g. game, website) that utilises Epic's official services is
 | [unrealComClient](permissions/43e2dea89b054198a703f6199bee6d5b.md) | `43e2dea89b054198a703f6199bee6d5b` | `Unknown` | ✅ | ❌ | `Unknown` | `https://www.unrealengine.com/marketplace` | `Unknown` | `None` | `None` |
 | [Diesel - A4](permissions/44c39619da304266855c9646e1081ab5.md) | `44c39619da304266855c9646e1081ab5` | `Unknown` | ✅ | ✅ | `Unknown` | `None` | `Unknown` | `None` | `None` |
 | [ocean_web](permissions/4b6c700c72c44e178b12070f2719af1a.md) | `4b6c700c72c44e178b12070f2719af1a` | `Unknown` | ✅ | ❌ | `Unknown` | `https://www.epicgames.com/spyjinx/exchange` | `Unknown` | `None` | `None` |
-| [affiliate_web](permissions/4d9a4e9e568a40faa77b9757b4fac210.md) | `4d9a4e9e568a40faa77b9757b4fac210` | `Unknown` | ✅ | ❌ | `Unknown` | `None` | `Unknown` | `None` | `None` |
+| [affiliate_web](permissions/4d9a4e9e568a40faa77b9757b4fac210.md) | `4d9a4e9e568a40faa77b9757b4fac210` | `Unknown` | ✅ | ❌ | `Unknown` | `https://sac.epicgames.com/dashboard` | `Unknown` | `None` | `None` |
 | [content-service-live-web](permissions/4e1e74dcfe6e4d6eaea66fec15f9b9d4.md) | `4e1e74dcfe6e4d6eaea66fec15f9b9d4` | `Unknown` | ✅ | ❌ | `content-service` | `https://content-service.bfda.live.use1a.on.epicgames.com/oauth/v1/token-exchange` | `Unknown` | `None` | `None` |
 | [twinmotion-website](permissions/4f5e975e1b4c4b5caca20f70daa90c17.md) | `4f5e975e1b4c4b5caca20f70daa90c17` | `Unknown` | ✅ | ❌ | `twinmotion-website` | `https://twinmotion-prod.ol.epicgames.net` | `Unknown` | `None` | `None` |
 | [web-eos-documentation](permissions/4f7af87d02fa4568835269abb600c2ea.md) | `4f7af87d02fa4568835269abb600c2ea` | `Unknown` | ✅ | ❌ | `Unknown` | `None` | `Unknown` | `None` | `None` |
