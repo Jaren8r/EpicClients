@@ -2,8 +2,10 @@
 
 
 ## Client Permissions
-Unknown
+| Resource | Action |
+| -------- | ------ |
 
 ## Account Permissions
-Unknown
+| Resource | Action |
+| -------- | ------ |
 
