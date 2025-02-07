@@ -11,5 +11,6 @@ Allowed Scopes: `basic_profile`, `friends_list`, `friends_management`, `presence
 Unknown
 
 ## Account Permissions
-Unknown
+| Resource | Action |
+| -------- | ------ |
 
