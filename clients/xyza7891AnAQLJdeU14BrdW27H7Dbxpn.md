@@ -14,6 +14,7 @@ Allowed Scopes: `basic_profile`, `offline_access`, `email`<br>
 | ecommerce:integration:public:entitlement:account:{accountId}:entitlements | READ UPDATE |
 | ecommerce:integration:public:entitlement:account:{accountId}:entitlements:v2 | READ |
 | entitlement:account:{accountId}:entitlements | READ |
+| eulatracking:shared:responsehistory | READ |
 
 ## Account Permissions
 | Resource | Action |
@@ -21,4 +22,5 @@ Allowed Scopes: `basic_profile`, `offline_access`, `email`<br>
 | ecommerce:integration:public:entitlement:account:{accountId}:entitlements | READ UPDATE |
 | ecommerce:integration:public:entitlement:account:{accountId}:entitlements:v2 | READ |
 | entitlement:account:{accountId}:entitlements | NONE |
+| eulatracking:shared:responsehistory | READ |
 
