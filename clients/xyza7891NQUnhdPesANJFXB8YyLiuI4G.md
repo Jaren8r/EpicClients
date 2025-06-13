@@ -1,4 +1,4 @@
-# RealityCapture
+# RealityCapture Desktop
 
 Status: Enabled<br>
 Client ID: xyza7891NQUnhdPesANJFXB8YyLiuI4G<br>
