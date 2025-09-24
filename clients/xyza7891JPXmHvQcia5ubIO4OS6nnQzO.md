@@ -6,8 +6,8 @@ Client Secret: ss8bAC8PlxRorWvIXVw1WiZ2Zi8VPu32/KD3q+QcEXE<br>
 EOS: Yes (epicId)<br>
 Redirect URL: https://gpro.net/LoginEpic.asp<br>
 Grant Types: `authorization_code`, `client_credentials`, `continuation_token`, `device_auth`, `device_code`, `exchange_code`, `external_auth`, `refresh_token`<br>
-Allowed Scopes: `basic_profile`<br>
-Required Scopes: `basic_profile`<br>
+Allowed Scopes: `basic_profile`, `friends_list`<br>
+Required Scopes: `basic_profile`, `friends_list`<br>
 
 ## Client Permissions
 | Resource | Action |
