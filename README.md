@@ -37,6 +37,7 @@ Every application (e.g. game, website) that utilises Epic's official services is
 | [fulfillmentClient](clients/b3a0d1d6558b788e27a8c044083375ef.md) | `b3a0d1d6558b788e27a8c044083375ef` | `Unknown` | ✅ | ❔ | `Unknown` | `None` | `Unknown` | `None` | `None` |
 | [fortniteHKGameClient](clients/bb69d1e9bedb4c04a9e64a63a40aa2a4.md) | `bb69d1e9bedb4c04a9e64a63a40aa2a4` | `Unknown` | ❌ | ❔ | `Unknown` | `None` | `Unknown` | `None` | `None` |
 | [udnClient](clients/bc742d26f8314469aa997373f39c876e.md) | `bc742d26f8314469aa997373f39c876e` | `Unknown` | ✅ | ❔ | `Unknown` | `https://staging.udn.unrealengine.com/oauth/authorized` | `Unknown` | `None` | `None` |
+| [fortnitePublicTestPS4GameClient](clients/bdf9ddf0552f4186a02ba9c3caf581b5.md) | `bdf9ddf0552f4186a02ba9c3caf581b5` | `Unknown` | ❌ | ❔ | `Unknown` | `None` | `Unknown` | `None` | `None` |
 | [adminportal](clients/be806bc37c6f4bb9874430ebb11a6eaa.md) | `be806bc37c6f4bb9874430ebb11a6eaa` | `Unknown` | ✅ | ❔ | `Unknown` | `None` | `Unknown` | `None` | `None` |
 | [ue4answerhub](clients/c4c02c7c99e94ed9870a9dbeafab2c3f.md) | `c4c02c7c99e94ed9870a9dbeafab2c3f` | `Unknown` | ✅ | ❔ | `Unknown` | `https://answers.epicgames-stage.ol.epicgames.com/oauth/authorized` | `Unknown` | `None` | `None` |
 | [content-service-stage-web](clients/c7d5e728807d464ab81aed3746d1c831.md) | `c7d5e728807d464ab81aed3746d1c831` | `Unknown` | ✅ | ❔ | `content-service` | `https://content-service-stage.bfda.live.use1a.on.epicgames.com/oauth/v1/token-exchange` | `Unknown` | `None` | `None` |
