@@ -11,5 +11,6 @@ Allowed Scopes: `basic_profile`, `offline_access`<br>
 Unknown
 
 ## Account Permissions
-Unknown
+| Resource | Action |
+| -------- | ------ |
 
