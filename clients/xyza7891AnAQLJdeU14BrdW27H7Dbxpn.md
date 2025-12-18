@@ -5,7 +5,7 @@ Client ID: xyza7891AnAQLJdeU14BrdW27H7Dbxpn<br>
 Client Secret: Lb7kmMvowYcp7dwEziwgLuQjXltq6vUM88xiZTEnPN8<br>
 EOS: Yes (epicId)<br>
 Redirect URL: https://twinmotion.unrealengine.com/eos-login-redirect<br>
-Grant Types: `authorization_code`, `client_credentials`, `continuation_token`, `device_auth`, `device_code`, `exchange_code`, `external_auth`, `refresh_token`<br>
+Grant Types: `authorization_code`, `client_credentials`, `continuation_token`, `device_code`, `exchange_code`, `external_auth`, `refresh_token`<br>
 Allowed Scopes: `basic_profile`, `offline_access`, `email`<br>
 
 ## Client Permissions
