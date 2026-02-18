@@ -1,6 +1,6 @@
 # oceanPCGameClient
 
-Status: Enabled<br>
+Status: Disabled<br>
 Client ID: e7e9faff25a74d429eecbf3fae160abf<br>
 Client Secret: 8684e5bac0b54d73a8fe3804a2452d4d<br>
 EOS: No<br>
