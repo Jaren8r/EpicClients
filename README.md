@@ -77,7 +77,7 @@ Every application (e.g. game, website) that utilises Epic's official services is
 | [ueLauncherSite](clients/6b4462add71f4d9eb14dcf75c7153a89.md) | `6b4462add71f4d9eb14dcf75c7153a89` | `Unknown` | ✅ | ❌ | `Unknown` | `https://ue-launcher-website-prod.ol.epicgames.com/` | `Unknown` | `None` | `None` |
 | [Quixel - Bridge](clients/6befbbcfe1f8406698661b68bb01091a.md) | `6befbbcfe1f8406698661b68bb01091a` | `Unknown` | ✅ | ❌ | `Unknown` | `https://quixel.com/` | `Unknown` | `None` | `None` |
 | [orion_web](clients/6c92a5a9c9524fc88f713a5bcf0d99f4.md) | `6c92a5a9c9524fc88f713a5bcf0d99f4` | `Unknown` | ❌ | ❌ | `Unknown` | `https://www.epicgames.com/paragon/exchange` | `Unknown` | `None` | `None` |
-| [EM 2](clients/6d2a42a9fa1c4242a2783f690ee0bb2c.md) | `6d2a42a9fa1c4242a2783f690ee0bb2c` | `Unknown` | ✅ | ❌ | `Unknown` | `https://p-mk61l9ksje.exmggames.com/` | `Unknown` | `None` | `None` |
+| [EM 2](clients/6d2a42a9fa1c4242a2783f690ee0bb2c.md) | `6d2a42a9fa1c4242a2783f690ee0bb2c` | `Unknown` | ✅ | ❌ | `Unknown` | `https://save-the-world.fortnite.com/` | `Unknown` | `None` | `None` |
 | [MudRunner](clients/6f7a091344af4804a5f3bbf0cbbf0011.md) | `6f7a091344af4804a5f3bbf0cbbf0011` | `Unknown` | ✅ | ✅ | `f7c56f22541d4878b8cf486660d937e1` | `None` | `Unknown` | `basic_profile`,&nbsp;`friends_list`,&nbsp;`presence` | `None` |
 | [utDedicatedServer](clients/6ff43e743edc4d1dbac3594877b4bed9.md) | `6ff43e743edc4d1dbac3594877b4bed9` | `54619d6f84d443e195200b54ab649a53` | ✅ | ❌ | `ut` | `None` | `client_credentials`,&nbsp;`refresh_token` | `None` | `None` |
 | [Naruto Nindo](clients/70e113f930c8478d9bcbab61ef3cbd4f.md) | `70e113f930c8478d9bcbab61ef3cbd4f` | `Unknown` | ✅ | ❌ | `Unknown` | `https://p-ape64ijez3.exmggames.com/` | `Unknown` | `None` | `None` |
