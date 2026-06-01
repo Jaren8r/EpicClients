@@ -1,4 +1,4 @@
-# GMTKSpear
+# Client (GMTKSpear)
 
 Status: Enabled<br>
 Client ID: xyza7891Fn4KVs8jvZC7Db9lCzJtgmbB<br>

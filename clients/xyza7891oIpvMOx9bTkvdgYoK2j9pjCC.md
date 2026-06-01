@@ -1,4 +1,4 @@
-# Super Squad
+# SuperSquadClient (Super Squad)
 
 Status: Enabled<br>
 Client ID: xyza7891oIpvMOx9bTkvdgYoK2j9pjCC<br>

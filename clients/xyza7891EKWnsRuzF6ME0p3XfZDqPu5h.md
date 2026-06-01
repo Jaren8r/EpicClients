@@ -1,4 +1,4 @@
-# Subnautica 2
+# Permissive (Subnautica 2)
 
 Status: Enabled<br>
 Client ID: xyza7891EKWnsRuzF6ME0p3XfZDqPu5h<br>

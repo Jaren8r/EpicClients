@@ -1,4 +1,4 @@
-# Redfall
+# Bethesda.net (Redfall)
 
 Status: Enabled<br>
 Client ID: xyza7891fRHmiPN5VAXaBR2c1UiG2pQb<br>

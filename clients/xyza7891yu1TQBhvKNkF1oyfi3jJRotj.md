@@ -1,4 +1,4 @@
-# Ark Mod Kit
+# ARK EOS Server (Ark Mod Kit)
 
 Status: Enabled<br>
 Client ID: xyza7891yu1TQBhvKNkF1oyfi3jJRotj<br>

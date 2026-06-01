@@ -1,4 +1,4 @@
-# Video Horror Society
+# Peer 2 Peer ALL Client (Video Horror Society)
 
 Status: Enabled<br>
 Client ID: xyza7891HmaagVvVwVMwuwhD71ErPC06<br>

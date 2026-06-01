@@ -1,4 +1,4 @@
-# Longvinter
+# Player Server (Longvinter)
 
 Status: Enabled<br>
 Client ID: xyza7891CkjSybtzm7jyxk4OHHIjrndG<br>

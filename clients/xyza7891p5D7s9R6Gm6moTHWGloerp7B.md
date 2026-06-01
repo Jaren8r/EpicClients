@@ -1,4 +1,4 @@
-# Rocket League
+# Prime - game client (Rocket League)
 
 Status: Enabled<br>
 Client ID: xyza7891p5D7s9R6Gm6moTHWGloerp7B<br>

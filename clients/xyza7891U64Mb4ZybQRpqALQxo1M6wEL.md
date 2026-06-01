@@ -1,4 +1,4 @@
-# Rocket League Sideswipe
+# Mesa Game Client (Rocket League Sideswipe)
 
 Status: Enabled<br>
 Client ID: xyza7891U64Mb4ZybQRpqALQxo1M6wEL<br>

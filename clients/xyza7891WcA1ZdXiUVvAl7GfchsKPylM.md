@@ -1,4 +1,4 @@
-# The Spirit and the Mouse
+# Default Game (The Spirit and the Mouse)
 
 Status: Enabled<br>
 Client ID: xyza7891WcA1ZdXiUVvAl7GfchsKPylM<br>

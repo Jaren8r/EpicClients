@@ -1,4 +1,4 @@
-# PUBG BATTLEGROUNDS
+# PUBG BATTLEGROUNDS (PUBG BATTLEGROUNDS)
 
 Status: Enabled<br>
 Client ID: xyza78913kAk0flyf7SIizBVXpHZgrao<br>

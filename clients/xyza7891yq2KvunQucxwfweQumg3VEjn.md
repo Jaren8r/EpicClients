@@ -1,4 +1,4 @@
-# Coop
+# Coop (Coop)
 
 Status: Enabled<br>
 Client ID: xyza7891yq2KvunQucxwfweQumg3VEjn<br>

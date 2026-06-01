@@ -1,4 +1,4 @@
-# Core
+# Core Epic Launcher (Core)
 
 Status: Enabled<br>
 Client ID: xyza7891T0uxaKhcCfLZVLxYB2UFwLNy<br>

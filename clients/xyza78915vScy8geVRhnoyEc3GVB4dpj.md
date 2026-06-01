@@ -1,4 +1,4 @@
-# Ghostwire: Tokyo
+# Snowfall client (Ghostwire: Tokyo)
 
 Status: Enabled<br>
 Client ID: xyza78915vScy8geVRhnoyEc3GVB4dpj<br>

@@ -1,4 +1,4 @@
-# Among Us
+# amongUsClient (Among Us)
 
 Status: Enabled<br>
 Client ID: xyza7891qtrmoYLr86we6DlfCA1RRsp8<br>

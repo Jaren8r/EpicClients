@@ -1,4 +1,4 @@
-# PAYDAY 3
+# Payday3Client (PAYDAY 3)
 
 Status: Enabled<br>
 Client ID: xyza7891jqe8X36OJUDmXQXK2InORIfS<br>

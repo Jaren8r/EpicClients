@@ -1,4 +1,4 @@
-# Book of Yog Idle RPG
+# GameClient (Book of Yog Idle RPG)
 
 Status: Enabled<br>
 Client ID: xyza7891CHBwmLi22rq3pDe8cw2QA2Gt<br>

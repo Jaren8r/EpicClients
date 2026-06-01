@@ -1,4 +1,4 @@
-# Discovery
+# Game Client (Discovery)
 
 Status: Enabled<br>
 Client ID: xyza7891zPOiOpKBB9aogT4e432FS0i4<br>

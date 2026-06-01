@@ -1,4 +1,4 @@
-# Metahuman Creator
+# Digital Humans (Metahuman Creator)
 
 Status: Enabled<br>
 Client ID: xyza7891OORp4qeFMsqG8MGwJLsun9Tb<br>

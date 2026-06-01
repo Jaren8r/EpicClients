@@ -1,4 +1,4 @@
-# Rumbleverse
+# Rumble Game Client (Rumbleverse)
 
 Status: Enabled<br>
 Client ID: xyza78910rMXccqfyI23kyiFLfqZjE6r<br>

@@ -1,4 +1,4 @@
-# Maestro
+# Maestro Web Client (Maestro)
 
 Status: Enabled<br>
 Client ID: xyza7891oL6OtsGfOEEprZv2WcfMWDGy<br>

@@ -1,4 +1,4 @@
-# High On Life
+# Dev Game Client (High On Life)
 
 Status: Enabled<br>
 Client ID: xyza78911sV9U2YtoJJR9xoGVMcMmKhv<br>

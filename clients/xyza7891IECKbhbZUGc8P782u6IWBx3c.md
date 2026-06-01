@@ -1,4 +1,4 @@
-# FINAL FANTASY VII REBIRTH
+# game client (FINAL FANTASY VII REBIRTH)
 
 Status: Enabled<br>
 Client ID: xyza7891IECKbhbZUGc8P782u6IWBx3c<br>

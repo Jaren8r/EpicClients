@@ -1,4 +1,4 @@
-# Idle Champions of the Forgotten Realm
+# Idle Champions of the Forgotten Realms Epic PC Client (Idle Champions of the Forgotten Realm)
 
 Status: Enabled<br>
 Client ID: xyza7891kXAfZljmmXBQvWTfhWa8bT7e<br>

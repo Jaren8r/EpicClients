@@ -1,4 +1,4 @@
-# Blood of Steel
+# Blood of Steel EOS/EAS Client (Blood of Steel)
 
 Status: Enabled<br>
 Client ID: xyza7891KeKHJyCBnme31xiSkYvrcqse<br>

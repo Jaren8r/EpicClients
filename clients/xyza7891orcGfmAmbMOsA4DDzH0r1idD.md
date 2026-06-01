@@ -1,4 +1,4 @@
-# Horizon Chase 2
+# Kumis Client (Horizon Chase 2)
 
 Status: Enabled<br>
 Client ID: xyza7891orcGfmAmbMOsA4DDzH0r1idD<br>

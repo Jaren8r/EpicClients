@@ -1,4 +1,4 @@
-# Disney Speedstorm
+# Disney Speedstorm (Disney Speedstorm)
 
 Status: Enabled<br>
 Client ID: xyza78917McZMBchsvRKhQRpquABDcrt<br>

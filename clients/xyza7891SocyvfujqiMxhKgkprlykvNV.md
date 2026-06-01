@@ -1,4 +1,4 @@
-# Paragon: The Overprime
+# OP Client Test 2 (Paragon: The Overprime)
 
 Status: Enabled<br>
 Client ID: xyza7891SocyvfujqiMxhKgkprlykvNV<br>

@@ -1,4 +1,4 @@
-# ZZT!
+# ZZTClient (ZZT!)
 
 Status: Enabled<br>
 Client ID: xyza7891KNT4pkKqVseoguuCN05gfoOz<br>

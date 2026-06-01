@@ -1,4 +1,4 @@
-# Twinmotion
+# Twinmotion Client (Twinmotion)
 
 Status: Enabled<br>
 Client ID: xyza7891AnAQLJdeU14BrdW27H7Dbxpn<br>

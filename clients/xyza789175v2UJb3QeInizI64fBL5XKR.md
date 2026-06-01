@@ -1,4 +1,4 @@
-# Century: Age of Ashes
+# GameClient (Century: Age of Ashes)
 
 Status: Enabled<br>
 Client ID: xyza789175v2UJb3QeInizI64fBL5XKR<br>

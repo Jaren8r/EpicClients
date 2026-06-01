@@ -1,4 +1,4 @@
-# Path of Exile
+# production server (Path of Exile)
 
 Status: Enabled<br>
 Client ID: xyza7891ziOYDZ2LlWabIM5tdSjeSnfA<br>

@@ -1,4 +1,4 @@
-# fortnitePCQAGameClientTest
+# fortnitePCQAGameClientTest (Fortnite)
 
 Status: Enabled<br>
 Client ID: 81ffd992c8a94ccaaaa6bd74c073ce6a<br>

@@ -1,4 +1,4 @@
-# Rocket League
+# Public API - Rocket League Profiles (Rocket League)
 
 Status: Enabled<br>
 Client ID: xyza7891S3TB8BWASuQTL0hHlcByBe6q<br>

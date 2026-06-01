@@ -1,4 +1,4 @@
-# Battle of Guardians
+# DEV (Battle of Guardians)
 
 Status: Enabled<br>
 Client ID: xyza7891AkIcZa7ZsjyppLXdlhQc3ZQg<br>

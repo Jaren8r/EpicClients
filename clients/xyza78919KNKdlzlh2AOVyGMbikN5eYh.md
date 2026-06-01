@@ -1,4 +1,4 @@
-# Splitgate 2
+# Game Client (Splitgate 2)
 
 Status: Enabled<br>
 Client ID: xyza78919KNKdlzlh2AOVyGMbikN5eYh<br>

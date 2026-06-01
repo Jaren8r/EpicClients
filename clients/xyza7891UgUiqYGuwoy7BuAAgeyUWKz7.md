@@ -1,4 +1,4 @@
-# DinoDashGame
+# DinoDashGameClient (DinoDashGame)
 
 Status: Enabled<br>
 Client ID: xyza7891UgUiqYGuwoy7BuAAgeyUWKz7<br>

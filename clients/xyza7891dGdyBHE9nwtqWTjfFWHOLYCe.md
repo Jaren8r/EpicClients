@@ -1,4 +1,4 @@
-# Sonic Racing: CrossWorlds
+# Game Client (Sonic Racing: CrossWorlds)
 
 Status: Enabled<br>
 Client ID: xyza7891dGdyBHE9nwtqWTjfFWHOLYCe<br>

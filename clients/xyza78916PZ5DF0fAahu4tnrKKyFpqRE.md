@@ -1,4 +1,4 @@
-# PAL World
+# Palworld (PAL World)
 
 Status: Enabled<br>
 Client ID: xyza78916PZ5DF0fAahu4tnrKKyFpqRE<br>

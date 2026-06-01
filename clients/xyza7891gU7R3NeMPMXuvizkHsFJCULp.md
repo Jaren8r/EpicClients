@@ -1,4 +1,4 @@
-# Destiny 2
+# DevTiger (Destiny 2)
 
 Status: Enabled<br>
 Client ID: xyza7891gU7R3NeMPMXuvizkHsFJCULp<br>

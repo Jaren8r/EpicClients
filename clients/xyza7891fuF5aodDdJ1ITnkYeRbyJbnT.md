@@ -1,4 +1,4 @@
-# Risk of Rain 2
+# Concord - Main Application (Risk of Rain 2)
 
 Status: Enabled<br>
 Client ID: xyza7891fuF5aodDdJ1ITnkYeRbyJbnT<br>

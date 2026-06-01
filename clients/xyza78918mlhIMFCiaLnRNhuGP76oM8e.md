@@ -1,4 +1,4 @@
-# Five Nights at Freddy's: Secret of the Mimic
+# AchievementClient (Five Nights at Freddy's: Secret of the Mimic)
 
 Status: Enabled<br>
 Client ID: xyza78918mlhIMFCiaLnRNhuGP76oM8e<br>

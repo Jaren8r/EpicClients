@@ -1,4 +1,4 @@
-# Recipe for Disaster
+# Recipe For Disaster Desktop Client (Recipe for Disaster)
 
 Status: Enabled<br>
 Client ID: xyza7891xRvwDrax33Qjy8pJ0wzKpxGv<br>

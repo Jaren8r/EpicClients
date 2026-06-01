@@ -1,4 +1,4 @@
-# Warframe
+# Minimal (Warframe)
 
 Status: Enabled<br>
 Client ID: xyza78917HBGiyGs1MCPKWbLTUAiPNDJ<br>

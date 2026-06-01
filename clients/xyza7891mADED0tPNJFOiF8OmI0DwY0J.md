@@ -1,4 +1,4 @@
-# Fall Guys
+# PC Client (Fall Guys)
 
 Status: Enabled<br>
 Client ID: xyza7891mADED0tPNJFOiF8OmI0DwY0J<br>

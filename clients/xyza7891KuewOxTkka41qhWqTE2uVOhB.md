@@ -1,4 +1,4 @@
-# Divine Knockout
+# Divine Knockout Game Client 001 (Divine Knockout)
 
 Status: Enabled<br>
 Client ID: xyza7891KuewOxTkka41qhWqTE2uVOhB<br>

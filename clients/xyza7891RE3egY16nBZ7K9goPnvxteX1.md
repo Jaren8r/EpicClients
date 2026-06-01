@@ -1,4 +1,4 @@
-# Bugby
+# Client (Bugby)
 
 Status: Enabled<br>
 Client ID: xyza7891RE3egY16nBZ7K9goPnvxteX1<br>

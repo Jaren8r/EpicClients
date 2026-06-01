@@ -1,4 +1,4 @@
-# MetaHuman
+# Unreal Editor (MetaHuman)
 
 Status: Enabled<br>
 Client ID: xyza7891Vvenk5Y4gTqAtlR68CLCxlQa<br>

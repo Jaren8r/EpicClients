@@ -1,4 +1,4 @@
-# Dead Island 2
+# GameExe (Dead Island 2)
 
 Status: Enabled<br>
 Client ID: xyza7891OQTXocGyB9xJm9MLhegbAJ0X<br>

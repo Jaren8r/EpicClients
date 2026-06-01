@@ -1,4 +1,4 @@
-# Realm Royale
+# Realm Royale Game Client 001 (Realm Royale)
 
 Status: Enabled<br>
 Client ID: xyza7891nsLGIw1Ny4xE1j6uzgcHZguL<br>

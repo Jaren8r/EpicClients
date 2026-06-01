@@ -1,4 +1,4 @@
-# LEGO®
+# LEGO Account Prod (LEGO®)
 
 Status: Enabled<br>
 Client ID: xyza7891t8nxvz3IoSNmFMy3xjTSWFuZ<br>

@@ -1,4 +1,4 @@
-# SpellForce 3 Versus Edition
+# thqno (SpellForce 3 Versus Edition)
 
 Status: Enabled<br>
 Client ID: xyza7891lYo4HLyH34SgGVCWJwW10kCd<br>

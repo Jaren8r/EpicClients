@@ -1,4 +1,4 @@
-# Destroy All Humans! - Clone Carnage
+# thqno (Destroy All Humans! - Clone Carnage)
 
 Status: Enabled<br>
 Client ID: xyza7891eyY46xVw5NWade2cIpsmuKnj<br>

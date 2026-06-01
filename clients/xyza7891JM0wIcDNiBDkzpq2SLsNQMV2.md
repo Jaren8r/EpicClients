@@ -1,4 +1,4 @@
-# Hi-Fi RUSH
+# Aurora Client (Hi-Fi RUSH)
 
 Status: Enabled<br>
 Client ID: xyza7891JM0wIcDNiBDkzpq2SLsNQMV2<br>

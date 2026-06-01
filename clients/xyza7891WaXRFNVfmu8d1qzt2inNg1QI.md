@@ -1,4 +1,4 @@
-# Marvel Rivals
+# Marvel Rivals (Marvel Rivals)
 
 Status: Enabled<br>
 Client ID: xyza7891WaXRFNVfmu8d1qzt2inNg1QI<br>

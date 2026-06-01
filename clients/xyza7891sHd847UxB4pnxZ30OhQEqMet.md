@@ -1,4 +1,4 @@
-# Dead by Daylight
+# Dbd EAC Client (Dead by Daylight)
 
 Status: Enabled<br>
 Client ID: xyza7891sHd847UxB4pnxZ30OhQEqMet<br>

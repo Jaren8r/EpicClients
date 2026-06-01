@@ -1,4 +1,4 @@
-# ARK: Survival Ascended
+# ARK Survival Ascended Server (ARK: Survival Ascended)
 
 Status: Enabled<br>
 Client ID: xyza7891muomRmynIIHaJB9COBKkwj6n<br>

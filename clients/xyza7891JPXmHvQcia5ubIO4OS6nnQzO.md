@@ -1,4 +1,4 @@
-# Classic racing manager
+# Game client (Classic racing manager)
 
 Status: Enabled<br>
 Client ID: xyza7891JPXmHvQcia5ubIO4OS6nnQzO<br>

@@ -1,4 +1,4 @@
-# Fortnite Discord Quest
+# fn-discord-quest (Fortnite Discord Quest)
 
 Status: Enabled<br>
 Client ID: xyza7891IjB10JDONRiKG3CZYlyWJjgk<br>

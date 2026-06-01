@@ -1,4 +1,4 @@
-# KARDS - The WWII Card Game
+# Game Client (KARDS - The WWII Card Game)
 
 Status: Enabled<br>
 Client ID: xyza7891UzoXISrgz76Khc8hA8GouTpn<br>

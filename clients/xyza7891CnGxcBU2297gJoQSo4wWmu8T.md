@@ -1,4 +1,4 @@
-# POLYGOD
+# POLYGOD (POLYGOD)
 
 Status: Enabled<br>
 Client ID: xyza7891CnGxcBU2297gJoQSo4wWmu8T<br>

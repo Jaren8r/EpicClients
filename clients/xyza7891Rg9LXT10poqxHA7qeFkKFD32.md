@@ -1,4 +1,4 @@
-# Honkai: Star Rail
+# HSRTestClient (Honkai: Star Rail)
 
 Status: Enabled<br>
 Client ID: xyza7891Rg9LXT10poqxHA7qeFkKFD32<br>

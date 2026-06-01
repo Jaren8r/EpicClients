@@ -1,4 +1,4 @@
-# Fortnite
+# Fortnite Client (Fortnite)
 
 Status: Enabled<br>
 Client ID: xyza7891343Fr4ZSPkQZ3kaL3I2sX8B5<br>

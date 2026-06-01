@@ -1,4 +1,4 @@
-# LEGO Builders Journey
+# Product Client (LEGO Builders Journey)
 
 Status: Enabled<br>
 Client ID: xyza7891toqTyKVU5gRXmYDANnajnldH<br>

@@ -1,4 +1,4 @@
-# Capturing Reality
+# Capturing Reality web (Capturing Reality)
 
 Status: Enabled<br>
 Client ID: xyza7891ew56BpYHAs8VGxD2O3qoqVoq<br>

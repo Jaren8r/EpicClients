@@ -1,4 +1,4 @@
-# Game
+# ReleaseClient (Game)
 
 Status: Enabled<br>
 Client ID: xyza7891wVd3fPopZvWKWbFfhtCGiW7u<br>

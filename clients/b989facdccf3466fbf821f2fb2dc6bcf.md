@@ -1,4 +1,4 @@
-# fortnitePS4EUCGGameClient
+# fortnitePS4EUCGGameClient (Fortnite)
 
 Status: Enabled<br>
 Client ID: b989facdccf3466fbf821f2fb2dc6bcf<br>

@@ -1,4 +1,4 @@
-# Game
+# ClosedBetaClient (Game)
 
 Status: Enabled<br>
 Client ID: xyza7891g1VCUqhzxGEUpy6lwSceg2gh<br>

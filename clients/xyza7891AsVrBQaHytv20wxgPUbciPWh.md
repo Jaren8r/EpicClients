@@ -1,4 +1,4 @@
-# FANGS
+# FANGS Client (FANGS)
 
 Status: Enabled<br>
 Client ID: xyza7891AsVrBQaHytv20wxgPUbciPWh<br>

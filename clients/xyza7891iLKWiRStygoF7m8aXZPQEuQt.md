@@ -1,4 +1,4 @@
-# Pinball FX
+# dev_client (Pinball FX)
 
 Status: Enabled<br>
 Client ID: xyza7891iLKWiRStygoF7m8aXZPQEuQt<br>

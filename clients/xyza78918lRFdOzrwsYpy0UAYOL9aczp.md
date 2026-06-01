@@ -1,4 +1,4 @@
-# Deverse World
+# Server (Deverse World)
 
 Status: Enabled<br>
 Client ID: xyza78918lRFdOzrwsYpy0UAYOL9aczp<br>
